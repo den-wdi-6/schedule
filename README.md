@@ -159,7 +159,7 @@ Time | Day 1                                      | Day 2                       
 **9:30am Module 1** | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-1A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-2A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-3A] | Project 1 | Project 1
 **11:00am Module 2** | [**Lab: Plan Project 1** - *Agile Development* (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [**Project 1 Approvals**][3-1C] | [**Outcomes**][3-2B] | Project 1 | Project 1 | **Presentations**
-**3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | **Retrospective** and [**Fix an Issue** (Nick)][4-1D]
+**3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | **Retrospective** and [**Fix an Issue** (Nick)][3-5D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
 
 Weekly Goals:
@@ -177,7 +177,10 @@ Weekly Goals:
 
 [3-3A]: https://github.com/den-materials/stacks-and-queues "Stacks and Queues"
 
-# DO NOT TRUST ANYTHING BELOW THIS LINE
+[3-5A]: # "Project 1"
+[3-5B]: # "Project 1"
+[3-5C]: # "Presentations"
+[3-5D]: https://github.com/den-materials/create-an-issue-project1 "Fix an issue"
 
 ## Unit 2: The Server
 
@@ -185,12 +188,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | **Intro to Full-Stack** - *Diagram and Key Terms* | [**Lab: Shakeitspear** - *AJAX API Calls*][4-3A] (Nick) | [**Troubleshooting for Steve** - *Dev Tools*][4-4A] (Zeb) | [**School Supplies** - *Intro to EJS*][4-5A] (Zeb)
- **9:30am Module 1** | [**Cats API** - *Requests and Postman*][4-2B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-3B] (Nick) | [**Routing, Tacos, and Cats** - *Intro to Express* (Zeb)][4-4B] | [**Restaurants and More** - *Mongo Intro*][4-5B] (Nick)
-**11:00am Module 2** | [**Cats API Pt 2** - *AJAX*][4-2C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Nick)][4-3C] | [**Time and Bicycles** - *Building Express Routes* (Zeb)][4-4C] | [**Lab: Restaurants** - *Mongo CLI*][4-5C] (Nick)
-**1:30pm Module 3** | [**Lab: Cats API** *AJAX*][4-2D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-3D] (Nick) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-4D] | [**Reminders** - *Mongoose Intro*][4-5D] (Zeb)
-**3:00pm Module 4** | [**SuperCRUD Queries** - *API Practice*][4-2E] (Nick) | [**Lab: Favorite Movies** - *Requesting with Node*][4-3E] (Stefan) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-4E] (Nick) |  [**More Mongoose**][4-5D] (Zeb)
-**Training** | Continue Cats API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab
+ **9:00am Warm-Up** | **Intro to Full-Stack** - *Diagram and Key Terms* | [**Lab: Shakeitspear** - *AJAX API Calls*][4-2A] (Nick) | [**Troubleshooting for Steve** - *Dev Tools*][4-3A] (Zeb) | [**School Supplies** - *Intro to EJS*][4-4A] (Zeb) | [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo* (Zeb)][4-5A]
+ **9:30am Module 1** | [**Cats API** - *Requests and Postman*][4-1B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-2B] (Nick) | [**Routing, Tacos, and Cats** - *Intro to Express* (Zeb)][4-3B] | [**Restaurants and More** - *Mongo Intro*][4-4B] (Nick) | [**Candies Again** - *Views in Express* (Zeb)][4-5B]
+**11:00am Module 2** | [**Cats API Pt 2** - *AJAX*][4-1C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Nick)][4-2C] | [**Time and Bicycles** - *Building Express Routes* (Zeb)][4-3C] | [**Lab: Restaurants** - *Mongo CLI*][4-4C] (Nick) | [**Lab: Quotes** - *Views in Express* (Zeb)][4-5C]
+**1:30pm Module 3** | [**Lab: Cats API** *AJAX*][4-1D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-2D] (Nick) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-3D] | [**Reminders** - *Mongoose Intro*][4-4D] (Zeb) | [**Outcomes** (Nick)][4-5D]
+**3:00pm Module 4** | [**SuperCRUD Queries** - *API Practice*][4-1E] (Nick) | [**Lab: Favorite Movies** - *Requesting with Node*][4-2E] (Stefan) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-3E] (Nick) |  [**More Mongoose**][4-4D] (Zeb) | [**Lab: TODO API** - *JSON API Creation*][4-5E] (Nick)
+**Training** | Continue Cats API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab | Continue TODO API
 
 Weekly Goals:
 * Leverage other developers to support and improve projects
@@ -199,59 +202,52 @@ Weekly Goals:
 * Build a web server with Express
 * Define server responses with routes and controllers
 * Save JSON-like data to a server's Mongo database
+* Utilize server-side rendering with templates
 
-[4-1A]: # "Project 1"
-[4-1B]: # "Project 1"
-[4-1C]: # "Presentations"
-[4-1D]: https://github.com/den-materials/create-an-issue-project1 "Fix an issue"
+[4-1B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
+[4-1C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
+[4-1D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
+[4-1E]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
 
-[4-2B]: https://github.com/den-materials/api-intro "API, JSON, and Postman"
-[4-2C]: https://github.com/den-materials/js-ajax-lesson "AJAX Intro"
-[4-2D]: https://github.com/den-materials/js-ajax-lab "JS AJAX Lab"
-[4-2E]: https://github.com/den-materials/api-practice/blob/master/exercise-1.md "API Practice"
+[4-2A]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
+[4-2B]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
+[4-2C]: https://github.com/den-materials/nodejs "Intro to Node.js"
+[4-2D]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
+[4-2E]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
 
-[4-3A]: https://github.com/den-materials/api-practice/blob/master/shakeitspear-lab.md "Shakeitspeare"
-[4-3B]: https://github.com/den-materials/forms-and-ajax-lab "Connecting Forms to APIs"
-[4-3C]: https://github.com/den-materials/nodejs "Intro to Node.js"
-[4-3D]: https://github.com/den-materials/node-cli-weather "Intro Node Lab"
-[4-3E]: https://github.com/den-materials/requesting-with-node "Requesting with Node"
+[4-3A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
+[4-3B]: https://github.com/den-materials/express "Intro to Express.js"
+[4-3C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
+[4-3D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
+[4-3E]: https://github.com/den-materials/more-express-routes "More Express Routes"
 
-[4-4A]: https://github.com/den-materials/mini-tShoot "Dev Tools and Troubleshooting"
-[4-4B]: https://github.com/den-materials/express "Intro to Express.js"
-[4-4C]: https://github.com/den-materials/express-routing-lesson "Building Express Routes part 1"
-[4-4D]: https://github.com/den-materials/express-routing-lab "Building Express Routes part 2"
-[4-4E]: https://github.com/den-materials/more-express-routes "More Express Routes"
+[4-4A]: https://github.com/den-materials/intro-ejs "EJS Intro"
+[4-4B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
+[4-4C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
+[4-4D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
 
-[4-5A]: https://github.com/den-materials/intro-ejs "EJS Intro"
-[4-5B]: https://github.com/den-materials/mongo-intro "Intro to Mongo"
-[4-5C]: https://github.com/den-materials/mongo-cli "Mongo Lab"
-[4-5D]: https://github.com/den-materials/intro-mongoose "Mongo-backed models with Mongoose"
-
+[4-5A]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
+[4-5B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
+[4-5C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
+[4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 
 #### Week 5 - Full-Stack Apps, MVC, and Testing (10/9-10/13)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [**Organizing Food and Tweets** - *Referenced and Embedded Data with Mongo* (Zeb)][5-1A] | [**Questions in a Line**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**CodeWars**][5-4A] | [**Outcomes** (Nick)][5-5A]
- **9:30am Module 1** | [**Candies Again** - *Views in Express* (Zeb)][5-1B] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Nick) | [**ShakeItSpeare API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][5-5B]
-**11:00am Module 2** | [**Lab: Quotes** - *Views in Express* (Zeb)][5-1C] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) |  [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3C] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5C] (Nick)
-**1:30pm Module 3** | [**Outcomes** (Nick)][5-1D] | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3D] (Zeb) and [**Project 2 Intro**][5-3E] | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Questions in a Line**][5-5D]
-**3:00pm Module 4** | [**Lab: TODO API** - *JSON API Creation*][5-1E] (Nick) | [**Cargo Planes** - *Intro to MVC*][5-2E] (Zeb) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-3F] (Nick) | [**Project 2 Ideation / Wireframes**][5-4E] (Nick) | [**Map Wireframes to Views**][5-5E] (Nick)
-**Training** | Continue TODO API | [**Testing Reading and Quiz**][5-2F] | Personal API | Get External API Set Up for Project 2 & [**Project 2 Proposal**][5-4F] | **Mock out Project 2 w/ Lorem and Mock Data Only**
+ **9:00am Warm-Up** | COLUMBUS | [**Questions in a Line**][5-2A] (Zeb) | [**Second Pass** (Zeb)][5-3A] | [**CodeWars**][5-4A] | [**Outcomes** (Nick)][5-5A]
+ **9:30am Module 1** | DAY | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Nick) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Nick) | [**ShakeItSpeare API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Sass Preprocessing Research** - *Variables, Nesting, Inheritance, and Mixins* (Zeb)][5-5B]
+**11:00am Module 2** | NO | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Nick) |  [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3C] (Zeb) | [**Lab: Research and Test External API for Project 2**][5-4C] (Zeb) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5C] (Nick)
+**1:30pm Module 3** | CLASS | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Nick) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3D] (Zeb) and [**Project 2 Intro**][5-3E] | [**Lab: Research and Test External API for Project 2**][5-4D] (Zeb) | [**Questions in a Line**][5-5D]
+**3:00pm Module 4** | COLUMBUS | [**Cargo Planes** - *Intro to MVC*][5-2E] (Zeb) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-3F] (Nick) | [**Project 2 Ideation / Wireframes**][5-4E] (Nick) | [**Map Wireframes to Views**][5-5E] (Nick)
+**Training** | DAY | [**Testing Reading and Quiz**][5-2F] | Personal API | Get External API Set Up for Project 2 & [**Project 2 Proposal**][5-4F] | **Mock out Project 2 w/ Lorem and Mock Data Only**
 
 Weekly Goals:
-* Utilize server-side rendering with templates
 * Utilize Sass to improve and DRY out CSS code
-* Utilize Gulp to save time on repetitive tasks
 * Write a software test suite with Mocha and Chai
 * Build and test an API integration
-* Integrate tools like Gulp and Bootstrap to improve development
-
-[5-1A]: https://github.com/den-materials/mongo-structured-data "Data Organization in Mongo"
-[5-1B]: https://github.com/den-materials/express-views-lesson "Views in Express Lesson"
-[5-1C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
-[5-1D]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[5-1E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
+* Integrate Bootstrap to improve styles and save time
 
 [5-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [5-2B]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
@@ -275,7 +271,7 @@ Weekly Goals:
 [5-4F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
 
 [5-5A]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[5-5B]: https://github.com/den-materials/gulp "Gulp"
+[5-5B]: https://github.com/den-materials/sass-intro-1/blob/master/sass.md "Sass"
 [5-5C]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
 [5-5D]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions in a Line"
 [5-5E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
@@ -285,17 +281,17 @@ Weekly Goals:
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
  **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | [**Second Pass**][6-3A] (Zeb) | [**FizzBuzz** - *JS Problem Solving*][6-4A] | **A-Ha Moments**
- **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Nick) | [**Sass Preprocessing Research** - *Variables, Nesting, Inheritance, and Mixins* (Zeb)][6-2B] | [**Outcomes** (Becca)][6-3B] | Standup | Standup
- **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Nick)  | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Zeb) | [**Project 2 Trello**][6-3C] and **First Scrum** (Zeb) | Project 2 | Project 2
- **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Zeb) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Zeb) | [**Project 2**][6-3D] | Project 2 | Project 2
+ **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Nick) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | [**Outcomes** (Nick)][6-3B] | Standup | Standup
+ **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Nick)  | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Zeb) | [**Intro to Scoping**][6-3C] (Nick) and [**Project 2 Trello**][6-3D]  (Zeb) | Project 2 | Project 2
+ **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Zeb) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Zeb) | [**First Scrum for Project 2**][6-3D] | Project 2 | Project 2
 **3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Zeb) | **Integrate Passport into Project 2** | Project 2 | Project 2 | Project 2
 **Training** | Continue Tunely | [**Work on Project 2 Structure**][6-2F] | Project 2 | Project 2 | Project 2
 
 Weekly Goals:
 
+* Utilize Gulp to save time on repetitive tasks
 * Design a full-stack app
 * Understand and create Models, Views, and Controllers
-* Use Sass to DRY out and improve CSS
 * Understand and create a user model with authentication
 * Build a personal full-stack Javascript App from scratch
 
@@ -306,22 +302,23 @@ Weekly Goals:
 [6-1E]: https://github.com/den-materials/tunely
 
 [6-2A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
-[6-2B]: https://github.com/den-materials/sass-intro-1/blob/master/sass.md "Sass"
+[6-2B]: https://github.com/den-materials/gulp "Gulp"
 [6-2C]: https://github.com/den-materials/intro-auth "Security 101"
 [6-2D]: https://github.com/den-materials/express-passport "Intro to Passport"
 [6-2F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
 
 [6-3A]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
 [6-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
-[6-3C]: https://github.com/den-materials/project-2 "Project 2"
+[6-3C]: # "Intro to Scoping"
 [6-3D]: https://github.com/den-materials/project-2 "Project 2 Time"
-
 [6-4A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
 
 Extra Resources:
 
 * [Deploy to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
 * [External API Notes](https://github.com/den-materials/API-developer-notes)
+
+# DO NOT TRUST ANYTHING BELOW THIS LINE
 
 ## Unit 3: SEAN Stack and Group Work
 
@@ -332,7 +329,7 @@ Time | Day 1                                    | Day 2                         
  **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
  **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B]
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Summary of Components and Angular Basics**][7-4C] & [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb)
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Becca)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
+ **1:30pm Module 3** | Project 2 | [**Outcomes** (Nick)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
 **Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** | **Project 3 Pitch Prep** | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] & **[Testing][7-5G] [Reading][7-5H] and Quiz**
 
@@ -431,7 +428,7 @@ Weekly Goals:
 [8-5B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
 [8-5C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
 [8-5D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
-[8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL" 
+[8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL"
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 
 #### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
