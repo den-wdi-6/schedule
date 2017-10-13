@@ -274,13 +274,45 @@ Weekly Goals:
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (10/16-10/20)
 
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+ **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | [**Second Pass**][6-3A] (Zeb) | [**FizzBuzz** - *JS Problem Solving*][6-4A] | **A-Ha Moments**
+ **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Nick) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | [**Outcomes** (Nick)][6-3B] | Standup | Standup
+ **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Nick)  | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Zeb) | [**Intro to Scoping**][6-3C] (Nick) and [**Project 2 Trello**][6-3D]  (Zeb) | Project 2 | Project 2
+ **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Zeb) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Zeb) | [**First Scrum for Project 2**][6-3D] | Project 2 | Project 2
+**3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Zeb) | **Integrate Passport into Project 2** | Project 2 | Project 2 | Project 2
+**Training** | Continue Tunely | [**Work on Project 2 Structure**][6-2F] | Project 2 | Project 2 | Project 2
+
 Weekly Goals:
 
+* Utilize Gulp to save time on repetitive tasks
 * Design a full-stack app
 * Understand and create Models, Views, and Controllers
-* Use Sass to DRY out and improve CSS
 * Understand and create a user model with authentication
 * Build a personal full-stack Javascript App from scratch
+
+[6-1A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[6-1B]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[6-1C]: https://github.com/den-materials/mvc-folder-structure "MVC App Organization"
+[6-1D]: https://github.com/den-materials/tunely
+[6-1E]: https://github.com/den-materials/tunely
+
+[6-2A]: https://github.com/den-materials/non-tech-lightning-talk "Non-Tech Lightning Talks"
+[6-2B]: https://github.com/den-materials/gulp "Gulp"
+[6-2C]: https://github.com/den-materials/intro-auth "Security 101"
+[6-2D]: https://github.com/den-materials/express-passport "Intro to Passport"
+[6-2F]: https://github.com/den-materials/project-2 "MVP Of Project 2"
+
+[6-3A]: https://github.com/den-materials/unit2_week2_secondpass "Second Pass"
+[6-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[6-3C]: # "Intro to Scoping"
+[6-3D]: https://github.com/den-materials/project-2 "Project 2 Time"
+[6-4A]: https://github.com/den-materials/fizzBuzz "FizzBuzz"
+
+Extra Resources:
+
+* [Deploy to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
+* [External API Notes](https://github.com/den-materials/API-developer-notes)
 
 ## Unit 3: SEAN Stack and Group Work
 
