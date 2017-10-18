@@ -280,10 +280,10 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | [**Second Pass**][6-3A] (Zeb) | [**FizzBuzz** - *JS Problem Solving*][6-4A] | **A-Ha Moments**
+ **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | Standup | [**FizzBuzz** - *JS Problem Solving*][6-4A] | [**Second Pass**][6-3A] (Zeb)
  **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Nick) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | [**Outcomes** (Nick)][6-3B] | Standup | Standup
  **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Nick)  | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Zeb) | [**Intro to Scoping**][6-3C] (Nick) and [**Project 2 Trello**][6-3D]  (Zeb) | Project 2 | Project 2
- **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Zeb) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Zeb) | [**First Scrum for Project 2**][6-3D] | Project 2 | Project 2
+ **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Zeb) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Zeb) | [**Project 2 Advice**][6-3D] | Project 2 | Project 2
 **3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Zeb) | **Integrate Passport into Project 2** | Project 2 | Project 2 | Project 2
 **Training** | Continue Tunely | [**Work on Project 2 Structure**][6-2F] | Project 2 | Project 2 | Project 2
 
@@ -326,8 +326,8 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | Standup |  Project 2 | [**Project 3 Intro**][7-3A] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
- **9:30am Module 1** | Project 2 | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B]
+ **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
+ **9:30am Module 1** | Standup | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B]
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Summary of Components and Angular Basics**][7-4C] & [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb)
  **1:30pm Module 3** | Project 2 | [**Outcomes** (Nick)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
