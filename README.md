@@ -318,8 +318,6 @@ Extra Resources:
 * [Deploy to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
 * [External API Notes](https://github.com/den-materials/API-developer-notes)
 
-# DO NOT TRUST ANYTHING BELOW THIS LINE
-
 ## Unit 3: SEAN Stack and Group Work
 
 #### Week 7 - Angular and Angular Tools (10/23-10/27)
@@ -344,7 +342,6 @@ Weekly Goals:
 - Create your own components with the Angular CLI
 - Use `Http` to communicate from Angular front-end to back-end
 - Configure front-end routing with Angular
-- Differentiate between promises and observables
 
 [7-2C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
 [7-2D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
@@ -373,6 +370,8 @@ Weekly Goals:
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 
+# DO NOT TRUST ANYTHING BELOW THIS LINE
+
 #### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
@@ -385,6 +384,7 @@ Time | Day 1                                      | Day 2                       
 **Training** | **[Testing][7-5G] [Reading][7-5H] and Quiz** | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
+- Differentiate between promises and observables
 - Use Jasmine to test Angular apps
 - Use ServiceWorkers to enable smooth offline performance
 - Use Angular Universal to improve Angular SEO
