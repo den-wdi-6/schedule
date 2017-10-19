@@ -326,12 +326,16 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Project 3 Pitches**][7-5A]
- **9:30am Module 1** | Standup | Retrospective | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B]
- **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Summary of Components and Angular Basics**][7-4C] & [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb)
- **1:30pm Module 3** | Project 2 | [**Outcomes** (Nick)][7-2C] | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
-**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** | **Project 3 Pitch Prep** | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] & **[Testing][7-5G] [Reading][7-5H] and Quiz**
+ **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | BoomTown Interviews or Project/HW Catchup
+ **9:30am Module 1** | Standup | Retrospective | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Project 3 Pitches**][7-5A]
+ **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
+ **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B] | [**Outcomes** (Nick)][7-2C]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
+**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** |  **BoomTown Project**
+
+[**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
+[**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
+[**Death Square Pt 4** - *Observables Mini-Project*][7-5F]
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -373,12 +377,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][8-1A] and Angular Cleanup | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | More Vending Machine (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C]
-**1:30pm Module 3** | [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | Project 2 | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**9:00am Warm-up** | BoomTownPrep [**CodeWars**][8-1A] and Angular Cleanup | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
+**9:30am Module 1** | BoomTownPrep [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | More Vending Machine (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
+ **11:00am Module 2** | BoomTownPrep [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C]
+**1:30pm Module 3** | BoomTown [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | BoomTown [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
+**Training** | **[Testing][7-5G] [Reading][7-5H] and Quiz** | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
 
 Weekly Goals:
 - Use Jasmine to test Angular apps
@@ -481,12 +485,12 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**CodeWars**][10-1A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
-**9:30am Module 1** | BoomTownPrep | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
-**11:00am Module 2** | BoomTown Prep | Project 3 | Project 3 | Project 3 Retro | [**Intro to Legacy Code** (Zeb)][10-5C]
-**1:30pm Module 3** | BoomTown Prep | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | BoomTown Demos | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
-**Training** | Project 3 | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
+**9:00am Warm-up** | Coming this Way | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:30am Module 1** |  | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
+**11:00am Module 2** | Coming this Way | Project 3 | Project 3 | Project 3 Retro | [**Intro to Legacy Code** (Zeb)][10-5C]
+**1:30pm Module 3** | Coming this Way | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
+**3:00pm Module 4** | Coming this Way | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**Training** | Coming this Way | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
 
 [10-1A]: https://www.codewars.com "CodeWars"
 
