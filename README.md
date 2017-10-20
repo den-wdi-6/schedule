@@ -331,10 +331,6 @@ Time | Day 1                                    | Day 2                         
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
 **Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** |  **BoomTown Project**
 
-[**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E]
-[**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D]
-[**Death Square Pt 4** - *Observables Mini-Project*][7-5F]
-
 Weekly Goals:
 - Wrap up ES6 Fundamentals
 - Understand what Angular is
@@ -370,18 +366,16 @@ Weekly Goals:
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 
-# DO NOT TRUST ANYTHING BELOW THIS LINE
-
 #### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | BoomTownPrep [**CodeWars**][8-1A] and Angular Cleanup | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A] |  [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A]
-**9:30am Module 1** | BoomTownPrep [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | More Vending Machine (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B]
- **11:00am Module 2** | BoomTownPrep [**Offline Angular** - *Service Workers* (Zeb)][8-1D] & [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C] | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C]
-**1:30pm Module 3** | BoomTown [**Serverside Angular** - *Angular Universal*][8-1F] (Zeb) | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Outcomes** (Nick)][8-5D]
-**3:00pm Module 4** | BoomTown [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E] | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E]
-**Training** | **[Testing][7-5G] [Reading][7-5H] and Quiz** | Continue Feature Add and Change | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] | [**Lab: Library** - *SQL Practice*][8-5F]
+**9:00am Warm-up** | BoomTownPrep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
+**9:30am Module 1** | BoomTownPrep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B]
+ **11:00am Module 2** | BoomTownPrep | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C]
+**1:30pm Module 3** | BoomTown | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D]
+**3:00pm Module 4** | BoomTown | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E]
+**Training** | **[Testing][7-5G] [Reading][7-5H] and Quiz** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I]
 
 Weekly Goals:
 - Differentiate between promises and observables
@@ -435,16 +429,18 @@ Weekly Goals:
 [8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL"
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 
+# DO NOT TRUST ANYTHING BELOW THIS LINE
+
 #### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A] | [**Mock Interviews** - **Technical** (Zeb)][9-5A]
-**9:30am Module 1** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3 | [**Outcomes** (Nick)][9-5B]
- **11:00am Module 2** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
-**1:30pm Module 3** | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Linked Lists Intro** (Zeb)][9-3D] | Project 3 | Project 3
-**3:00pm Module 4** | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | Project 3 | BoomTown Interviews
-**Training** | Continue Tunr | Continue Ionic App | [Project 3][9-3F] | Project 3 | [**Work on Boomtown Prototype**][9-5F]
+**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A] | [**Mock Interviews** - **Technical** (Zeb)][9-5A]
+**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3 | [**Outcomes** (Nick)][9-5B]
+ **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Linked Lists Intro** (Zeb)][9-3D] | Project 3 | Project 3
+**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | Project 3 | BoomTown Interviews
+**Training** | [**Lab: Library** - *SQL Practice*][8-5F] Continue Tunr | Continue Ionic App | [Project 3][9-3F] | Project 3 | [**Work on Boomtown Prototype**][9-5F]
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
