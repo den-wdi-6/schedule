@@ -329,7 +329,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
  **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B] | [**Outcomes** (Nick)][7-2C]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
-**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** |  **BoomTown Project**
+**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Boomtown Prototype**][9-5F]
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -435,12 +435,12 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A] | [**Mock Interviews** - **Technical** (Zeb)][9-5A]
-**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3 | [**Outcomes** (Nick)][9-5B]
- **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
-**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Linked Lists Intro** (Zeb)][9-3D] | Project 3 | Project 3
-**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | Project 3 | BoomTown Interviews
-**Training** | [**Lab: Library** - *SQL Practice*][8-5F] Continue Tunr | Continue Ionic App | [Project 3][9-3F] | Project 3 | [**Work on Boomtown Prototype**][9-5F]
+**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
+**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
+ **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [Project 3][9-3F] | Project 3 | Project 3
+**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | Project 3 | Project 3 | Project 3
+**Training** | [**Lab: Library** - *SQL Practice*][8-5F] | Continue Tunr | Project 3 | Project 3 | Project 3 | 
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
@@ -481,12 +481,12 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | Coming this Way | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | Project 3 | [**What's Different in Angular 2** (Zeb)][10-5A]
-**9:30am Module 1** |  | Project 3 | Project 3 | Project 3 | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
-**11:00am Module 2** | Coming this Way | Project 3 | Project 3 | Project 3 Retro | [**Intro to Legacy Code** (Zeb)][10-5C]
-**1:30pm Module 3** | Coming this Way | Project 3 | Project 3 | **Project 3 Presentations** | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | Coming this Way | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
-**Training** | Coming this Way | Project 3 | Project 3 | Fix Issues | Continue Legacy Code
+**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Zeb)][9-5A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:30am Module 1** | [**Outcomes** (Nick)][9-5B] | Project 3 | Project 3 | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
+**11:00am Module 2** | Project 3 | Project 3 | Project 3 Retro | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Intro to Legacy Code** (Zeb)][10-5C]
+**1:30pm Module 3** | Project 3 | Project 3 | **Project 3 Presentations** | [**Linked Lists Intro** (Zeb)][9-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
+**3:00pm Module 4** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**Training** | Project 3 | Project 3 | Fix Issues | Continue Ionic App | Continue Legacy Code
 
 [10-1A]: https://www.codewars.com "CodeWars"
 
