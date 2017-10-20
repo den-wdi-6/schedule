@@ -429,8 +429,6 @@ Weekly Goals:
 [8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL"
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 
-# DO NOT TRUST ANYTHING BELOW THIS LINE
-
 #### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
@@ -438,8 +436,8 @@ Time | Day 1                                      | Day 2                       
 **9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
 **9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
  **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
-**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [Project 3][9-3F] | Project 3 | Project 3
-**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | Project 3 | Project 3 | Project 3
+**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku**][9-3G] | Project 3 | Project 3
+**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Project 3**][9-3F] | Project 3 | Project 3
 **Training** | [**Lab: Library** - *SQL Practice*][8-5F] | Continue Tunr | Project 3 | Project 3 | Project 3 | 
 
 Weekly Goals:
@@ -468,6 +466,7 @@ Weekly Goals:
 [9-3D]: https://github.com/den-materials/linked-lists "Linked Lists"
 [9-3E]: https://github.com/den-materials/linked-lists "Linked Lists"
 [9-3F]: https://github.com/den-materials/project-03 "Project 3"
+[9-3G]: https://github.com/den-materials/angular-and-heroku "Angular and Heroku"
 
 [9-4A]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
 
@@ -509,16 +508,18 @@ Weekly Goals:
 - Create a full-stack web application with a team
 - Improve Legacy Code
 
+# DO NOT TRUST ANYTHING BELOW THIS LINE
+
 #### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | LABOR | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**Second Pass** (Zeb)][11-5A]
-**9:30am Module 1** | DAY | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Stefan)][11-4B] | [**Cars** - *PHP CRUD* (Gregory)][11-5B]
-**11:00am Module 2** | NO | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Stefan)][11-4C] | [**Lab: Cars** - *PHP CRUD* (Gregory)][11-5C]
-**1:30pm Module 3** | CLASS | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | Freelance Project
-**3:00pm Module 4** | NO | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | Freelance Project
-**Training** | CLASS | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project**
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Nick)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
+**9:30am Module 1** | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Nick)][11-4B] | NO | CLASS
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Nick)][11-4C] | GIVING | THANKS
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | NO CLASS | NO CLASS
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | THANKSGIVING | NO CLASS
+**Training** | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
@@ -551,11 +552,11 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Lightning Talks Prep | Scrum | Scrum | Scrum | Scrum |
-**11:00am** | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
-**2:00pm** | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work | Project 4  |
-**3:00pm** | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work | Project 4  |
-**Training** | Project 4 | Project 4 | Project 4 | Project 4 | Project Work |
+**9:00am** | [**Second Pass** (Nick)][11-5A] | Lightning Talks Prep | Scrum | Scrum | Scrum |
+**11:00am** | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C] | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
+**Training** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project** | Project 4 | Project 4 | Project 4 | Project 4 |
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
 [12-1D]: https://github.com/den-materials/project-4 "Project 4"
@@ -573,14 +574,11 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Scrum | Make-up Project Work | NO | NO | NO
-**11:00am** | Project Work | **Mock Interviews** | CLASS | CLASS | CLASS
-**2:00pm** | **Project Presentations** | **Practice Showcase** | WORK | WORK | WORK
-**3:00pm** | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON | ON
-**Training** | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO | PORTFOLIO
-
->**Note:** Someone will be available **
-by appointment** for mock interviews and portfolio help after graduation.  Please set up a time with them by Direct Messaging them in Slack.
+**9:00am** | Scrum | Scrum | Make-up Project Work | NO | NO
+**11:00am** | Project 4 | Project Work | **Mock Interviews** | CLASS | CLASS
+**2:00pm** | Project 4 | **Project Presentations** | **Practice Showcase** | WORK | WORK
+**3:00pm** | Project 4 | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON
+**Training** | Project Work | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
