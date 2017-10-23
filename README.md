@@ -327,9 +327,9 @@ Time | Day 1                                    | Day 2                         
  **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | BoomTown Interviews or Project/HW Catchup
  **9:30am Module 1** | Standup | Retrospective | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Project 3 Pitches**][7-5A]
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
- **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Star Wars API Pt 1** - *Angular APIs* (Zeb)][7-5B] | [**Outcomes** (Nick)][7-2C]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
-**Training** | **Project 2** | **Fix Issues** | **Angular and Typescript Quiz** and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Boomtown Prototype**][9-5F]
+ **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Weather API Pt 1** - *Angular APIs* (Zeb)][7-5B] | [**Outcomes** (Nick)][7-2C]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
+**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Boomtown Prototype**][9-5F]
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -345,37 +345,38 @@ Weekly Goals:
 [7-3A]: https://github.com/den-materials/project-03 "Project 3"
 [7-3B]: https://github.com/den-materials/es6-part2 "More ES6"
 [7-3C]: https://github.com/den-materials/authentication-and-math "Auth Math"
-[7-3D]: https://github.com/den-materials/angular/blob/master/lectures/day-1/01-intro.md "Intro to Angular" 
-[7-3E]: https://github.com/den-materials/angular/blob/master/lectures/day-1/02-typescript.md "Intro to Typescript" 
-[7-3F]: https://github.com/den-materials/intro-typescript "Intro to Typescript"
-[7-3G]: https://github.com/den-materials/angular/blob/master/lectures/day-1/03-angular-basics.md "Angular Basics"
+[7-3D]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/01-intro.md "Intro to Angular" 
+[7-3E]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/02-typescript.md "Intro to Typescript" 
+[7-3F]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/02a-optional-more-typescript.md "Intro to Typescript"
+[7-3G]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/03-angular-basics.md "Angular Basics"
 
-[7-4A]: https://github.com/den-materials/angular/blob/master/lectures/day-1/04-angular-components.md "Angular Components"
-[7-4B]: https://github.com/den-materials/angular/blob/master/lectures/day-1/04-angular-components.md "Angular Components"
-[7-4C]: https://github.com/den-materials/angular/blob/master/lectures/day-1/05-summary.md "Summary"
+[7-4A]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/04-angular-components.md "Angular Components"
+[7-4B]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/05-angular-directives.md "Angular Directives"
+[7-4C]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/06-summary.md "Summary"
 [7-4D]: https://github.com/den-materials/angular/tree/master/projects/project-01-components "Components Project"
-[7-4E]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
+[7-4E]: https://github.com/den-materials/angular/tree/master/lectures/02-routing-apis "Day 2 Lessons"
 [7-4F]: https://github.com/den-materials/death-square-routing "Routing Project"
 
 [7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
-[7-5B]: https://github.com/den-materials/angular/tree/master/lectures/day-2 "Day 2 Lessons"
+[7-5B]: https://github.com/den-materials/angular/tree/master/lectures/02-routing-apis "Day 2 Lessons"
 [7-5C]: https://github.com/den-materials/death-square-api "API Project"
-[7-5D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
-[7-5E]: https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md "HTTP/Observables"
+[7-5D]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01-observables.md "HTTP/Observables"
+[7-5E]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01.5-observables-recap.md "HTTP/Observables"
 [7-5F]: https://github.com/den-materials/death-square-observables "Observables Project"
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
+[7-5I]: https://goo.gl/forms/4fxQee6ysrlLDl4j1 "Jasmine and ng test Quiz"
 
 #### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | BoomTownPrep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
+**9:00am Warm-up** | BoomTownPrep | [**Weather API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
 **9:30am Module 1** | BoomTownPrep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B]
  **11:00am Module 2** | BoomTownPrep | [**Death Square Pt 4** - *Observables Mini-Project*][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C]
 **1:30pm Module 3** | BoomTown | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project*][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D]
 **3:00pm Module 4** | BoomTown | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Competitive and User Research** (Nick)][8-3F] | [**Library and Crow's Feet** - *Relational Data Modeling* (Nick)][8-4E]
-**Training** | **[Testing][7-5G] [Reading][7-5H] and Quiz** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I]
+**Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | [**Interview Potential Users**][8-3G] & **Turn in Choose Your Own Adventure Work** | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I]
 
 Weekly Goals:
 - Differentiate between promises and observables
@@ -390,25 +391,25 @@ Weekly Goals:
 - Create a SQL DB and perform queries on it
 
 [8-1A]: https://www.codewars.com "CodeWars"
-[8-1B]: https://github.com/den-materials/angular/blob/master/lectures/day-3/jasmine-and-tdd.md "Jasmine and Angular"
+[8-1B]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/02-jasmine-and-tdd.md "Jasmine and Angular"
 [8-1C]: https://github.com/den-materials/death-square-testing "Testing Mini-Project"
-[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/day-3/service-workers.md "Service Workers"
+[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/03-service-workers.md "Service Workers"
 [8-1E]: https://github.com/den-materials/death-square-service-workers "Service Workers Mini-Project"
-[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-universal.md "Angular Universal"
-[8-1G]: https://github.com/den-materials/angular/blob/master/lectures/day-4/01-recap.md "Recap"
-[8-1H]: https://github.com/den-materials/angular/blob/master/lectures/day-3/angular-packages.md "Angular Packages"
+[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/04-angular-universal.md "Angular Universal"
+[8-1G]: https://github.com/den-materials/angular/blob/master/lectures/04-recap/01-recap.md "Recap"
+[8-1H]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/05-angular-packages.md "Angular Packages"
 
 [8-2A]: https://github.com/den-materials/angular-vending-machine "Vending Machine"
 [8-2B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
 [8-2C]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
-[8-2D]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-2E]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
+[8-2D]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-2E]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
 
-[8-3A]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3B]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3C]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3D]: https://github.com/den-materials/angular/tree/master/lectures/day-5 "Day 5 Exercises"
-[8-3E]: https://github.com/den-materials/angular/blob/master/lectures/day-5/recap.md "Recap Exercise"
+[8-3A]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3B]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3C]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3D]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3E]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases/recap.md "Recap Exercise"
 [8-3F]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
 [8-3G]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
 
