@@ -324,12 +324,12 @@ Extra Resources:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | BoomTown Interviews or Project/HW Catchup
+ **9:00am Warm-up** | **A-Ha Moments** |  Project 2 | [**Project 3 Intro**][7-3A] | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | Project/HW Catchup
  **9:30am Module 1** | Standup | Retrospective | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Zeb) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | [**Project 3 Pitches**][7-5A]
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
- **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**Weather API Pt 1** - *Angular APIs* (Zeb)][7-5B] | [**Outcomes** (Nick)][7-2C]
-**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | BoomTown Interviews or Project/HW Catchup
-**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Boomtown Prototype**][9-5F]
+ **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | [**Outcomes** (Nick)][7-2C]
+**3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | Custom Mentor Scoping/Planning
+**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | **Work on Custom Mentor Prototype**
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -358,7 +358,7 @@ Weekly Goals:
 [7-4F]: https://github.com/den-materials/death-square-routing "Routing Project"
 
 [7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
-[7-5B]: https://github.com/den-materials/angular/tree/master/lectures/02-routing-apis "Day 2 Lessons"
+[7-5B]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/08_what_is_an_api.md "What Is an API?"
 [7-5C]: https://github.com/den-materials/death-square-api "API Project"
 [7-5D]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01-observables.md "HTTP/Observables"
 [7-5E]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01.5-observables-recap.md "HTTP/Observables"
@@ -366,6 +366,7 @@ Weekly Goals:
 [7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
 [7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
 [7-5I]: https://goo.gl/forms/4fxQee6ysrlLDl4j1 "Jasmine and ng test Quiz"
+[7-5J]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/star_wars_api.md "Star Wars API"
 
 #### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
 
