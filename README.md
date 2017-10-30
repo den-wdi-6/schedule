@@ -372,24 +372,22 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | Custom Mentor Prep | [**Weather API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
-**9:30am Module 1** | Custom Mentor Prep | [**Weather API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | **Design Studio with UXDI!**
+**9:00am Warm-up** | Custom Mentor Prep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
+**9:30am Module 1** | Custom Mentor Prep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | **Design Studio with UXDI!**
  **11:00am Module 2** | Custom Mentor Prep | [**Death Square Pt 4** - *Observables Mini-Project* (Zeb)][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C]
 **1:30pm Module 3** | Custom Mentor  | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project* (Zeb)][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] (Zeb) | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D]
 **3:00pm Module 4** | Custom Mentor | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Library and Crow's Feet** - *Relational Data Modeling* (Zeb)][8-4E] | [**Competitive and User Research** (Nick)][8-3F]
 **Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] & **Turn in Choose Your Own Adventure Work** | [**Interview Potential Users**][8-3G]
 
 Weekly Goals:
+- Deliver a prototype to a local startup
 - Differentiate between promises and observables
 - Use Jasmine to test Angular apps
 - Use ServiceWorkers to enable smooth offline performance
-- Use Angular Universal to improve Angular SEO
 - Solidify knowledge of major Angular packages
 - Improve a legacy code base through bug fixes, feature fixing, and feature creation
 - Understand the basics of Sketch and Photoshop
-- Utilize FlexBox to improve CSS
 - Map out data relations for a web app
-- Create a SQL DB and perform queries on it
 
 [8-1A]: https://www.codewars.com "CodeWars"
 [8-1B]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/02-jasmine-and-tdd.md "Jasmine and Angular"
@@ -446,10 +444,9 @@ Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
 - Use Sequelize to create inter-connected models with data mappings
 - Manage group code submissions with GitHub
-- Create a hybrid mobile app with Angular and Ionic
-- Understand basic operations and web-dev IT
-- Learn the basics of Linked Lists to prepare for interviews
 - Thoughtfully answer behavioral and technical interview questions
+- Create a SQL DB and perform queries on it
+- Utilize FlexBox to improve CSS
 
 [9-1A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
 [9-1B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
@@ -505,9 +502,11 @@ Time | Day 1                           | Day 2                                  
 
 Weekly Goals:
 
+- Learn the basics of Linked Lists to prepare for interviews
 - Create a basic Angular 2 app from an Angular 1 base
-- Deliver a prototype to a local startup
 - Create a full-stack web application with a team
+- Create a hybrid mobile app with Angular and Ionic
+- Understand basic operations and web-dev IT
 - Improve Legacy Code
 
 # DO NOT TRUST ANYTHING BELOW THIS LINE
