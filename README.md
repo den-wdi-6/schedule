@@ -325,7 +325,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
  **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | [**Outcomes** (Nick)][7-2C]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | Custom Mentor Scoping/Planning
-**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | **Work on Custom Mentor Prototype**
+**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Custom Mentor Prototype**](https://github.com/den-materials/cutom-mentor-things)
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
