@@ -516,17 +516,18 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** | [**Git and GitHub Refresher** (Nick)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
-**9:30am Module 1** | [**Outcomes** (Nick)][11-2B] | REACT | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Nick)][11-4B] | NO | CLASS
-**11:00am Module 2** | [**Components and Blog Posts** - *React* (Nick)][11-2C] | REACT | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Nick)][11-4C] | GIVING | THANKS
-**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Nick)][11-2D] | REACT | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | NO CLASS | NO CLASS
-**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | REACT | [**Lab: Poop Tulips** - *PHP Wordpress* (Nick)][11-4E] | THANKSGIVING | NO CLASS
-**Training** | Continue React Tutorial | REACT | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
+**9:30am Module 1** | [**Outcomes** (Nick)][11-2B] | [**React TODO** (Nick)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C] | NO | CLASS
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Nick)][11-2C] | [**React TODO** (Nick)][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | GIVING | THANKS
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Nick)][11-2D] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Nick)][11-4B] | [**Lab: Client Project** - *PHP Wordpress* (Nick)][11-4E] | NO CLASS | NO CLASS
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Nick)][11-4C]  | [**Second Pass** (Nick)][11-5A] | THANKSGIVING | NO CLASS
+**Training** | Continue React Tutorial | [**Finish React TODO** (Nick)][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [11-2C]: https://github.com/den-materials/react "React"
 [11-2D]: https://github.com/den-materials/redux "Redux"
 [11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+[11-2F]: https://github.com/den-materials/react-todo-walkthrough-jquery "React TODO"
 
 [11-3A]: https://www.codewars.com "CodeWars"
 
@@ -553,8 +554,8 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | [**Second Pass** (Nick)][11-5A] | Lightning Talks Prep | Scrum | Scrum | Scrum |
-**11:00am** | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C] | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**9:00am** | Freelance Project | Lightning Talks Prep | Scrum | Scrum | Scrum |
+**11:00am** | Freelance Project | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
 **2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
 **3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
 **Training** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project** | Project 4 | Project 4 | Project 4 | Project 4 |
