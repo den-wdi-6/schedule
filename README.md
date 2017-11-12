@@ -475,15 +475,15 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, BoomTown, Group Project, and Legacy Code (11/13-11/17)
+#### Week 10 - Angular 1, Ionic, Group Project, and Legacy Code (11/13-11/17)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Zeb)][9-5A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Nick)][10-3A] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Zeb)][9-5A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Zeb)][10-3A] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**What's Different in Angular 2** (Zeb)][10-5A]
 **9:30am Module 1** | Project 3 | Project 3 | Project 3 Retro | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
 **11:00am Module 2** | Project 3 | Project 3 | **Project 3 Presentations** | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Intro to Legacy Code** (Zeb)][10-5C]
 **1:30pm Module 3** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Linked Lists Intro** (Zeb)][9-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Nick)][9-5B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Zeb)][9-5B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
 **Training** | Project 3 | Project 3 | Fix Issues | Continue Ionic App | Continue Legacy Code
 
 [10-1A]: https://www.codewars.com "CodeWars"
