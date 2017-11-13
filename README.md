@@ -1,5 +1,3 @@
-<!--Here's the WDI4 master -->
-
 #### Daily Schedule Overview
 
 Time  | Activity           
@@ -11,7 +9,6 @@ Time  | Activity
 1:30  | Module 3           
 3:00  | Module 4           
 4:00  | Independent Work   
-
 
 <div class="metaLinks">
 	<h2>Meta Links:</h2>
@@ -40,9 +37,9 @@ Time  | Activity
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [**Welcome to GA**][1-1A] (Both) | [**Animal Style** - *CSS selector basics* (Nick)][1-2A] | Work through Lab Issues | [**Kyrel 1** - *JS Problem Solving* (Zeb)][1-4A] | [**Kyrel 2** - *JS Problem Solving* (Zeb)][1-5A]
- **9:30am Module 1** | [**Orientation**][1-1B] (Both) | [**Everything's a Box** - *CSS Box model and positioning* (Nick)][1-2B] | [**Math, Stooges, and Sports Teams** - *JS Data types, variables, and arrays* (Zeb)][1-3B] |  [**Names and Nesting Dolls** - *Functions and scope* (Zeb)][1-4B] | [**Second Pass**](https://github.com/den-wdi-2/week1_secondPass) and [**Questions in a Line** (Zeb)][1-5B]
+ **9:30am Module 1** | [**Orientation**][1-1B] (Both) | [**Everything's a Box** - *CSS Box model and positioning* (Nick)][1-2B] | [**Math, Stooges, and Sports Teams** - *JS Data types, variables, and arrays* (Zeb)][1-3B] |  [**Names and Nesting Dolls** - *Functions and scope* (Zeb)][1-4B] | [**Second Pass**](https://github.com/den-wdi-5/week1_secondPass/blob/master/README.md) and [**Questions in a Line** (Zeb)][1-5B]
  **11:00am Module 2** | [**7 Layers and the Sharks Who Love Them** - *How the Internet Works* (Zeb)][1-1C] \* | [**Lab: From Idea to Website** - *Mockup to HTML/CSS* (Nick)][1-2C] | [**Class Full of Monkeys** - *Objects in JavaScript* (Zeb)][1-3C] | [**Lab: Max, Sum, Reverse** - *JavaScript functions* (Zeb)][1-4C] | [**Rollercoaster, Donuts, and Fruit** - *Mastering control flow* (Zeb)][1-5C]
- **1:30pm Module 3** | [**Jurassic Park and chmod** - *Navigating the file system + some meta skills* (Zeb)][1-1D] Remove the ./ piece and chmod section | [**Your WDI Workflow** - *Git Commands and GitHub* (Zeb)][1-2D] | [**Outcomes** (Nick and Becca)][1-3D] | [**Hack the Planet** - *DOM manipulation and events* (Nick)][1-4D] | [**Mobile-Friendly Class Page** - *Responsive Design and Media Queries* (Nick)][1-5D]
+ **1:30pm Module 3** | [**Jurassic Park and chmod** - *Navigating the file system + some meta skills* (Zeb)][1-1D] | [**Your WDI Workflow** - *Git Commands and GitHub* (Zeb)][1-2D] | [**Outcomes** (Nick and Becca)][1-3D] | [**Hack the Planet** - *DOM manipulation and events* (Nick)][1-4D] | [**Mobile-Friendly Class Page** - *Responsive Design and Media Queries* (Nick)][1-5D]
 **3:00pm Module 4** | [**WDI Diagnostic**][1-1E] and **GH Issue Lab** (Zeb)  | [**Lab: Relaxr** - *Design and CSS Challenge* (Nick)][1-2E] | [**Elements, Network, and Console Tabs** - *Chrome dev tools* (Nick)][1-3E] | [**Lab: LOTR** - *DOM manipulation* (Nick)][1-4E] | [**Week 1 Assessment** - *Pixel Perfect Website Recreation* (Zeb)][1-5E]   
 **Training** | [**Lab: Best Music/Movies/Books of the Year** - *Command Line Practice*][1-1F] (Zeb) | Continue Design/CSS Lab | [**Lab: Build a Portfolio Page** - *HTML/CSS from Scratch* (Nick)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
 
@@ -99,9 +96,9 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:00am Warm-Up** | [**Intro to ES6** - *Let, Const, Defaults, and Destructuring* (Zeb)][2-1A] | [**Egg Drop and Polygon** - *Whiteboarding* (Zeb)][2-2A] | [**Publishing Your First Webpage** - *GH Branching and gh-pages* (Zeb)][2-3A] | [**Native JS v jQuery Choice**][2-4A] and [**Code**][2-4B] (Zeb) | [**Developer Resources**][2-5A]
  **9:30am Module 1** | [**Common Character, Missing Number, and Second Highest Number** - *Whiteboarding 101* (Zeb)][2-1B] | [**Replacing Vanilla JS on Reddit** - *Intro to jQuery* (Zeb)][2-2B] | [**Real Estate** - *Intermediate jQuery* (Zeb)][2-3B] | [**Flower Power** - *OOP in JS* (Zeb)][2-4C] | Solutions Run-through and [**Questions in a Line**][2-5B] (Zeb)
- **11:00am Module 2** | [**Pseudocode Your Life** - *Computational Thinking Lab* (Joe)][2-1C] | [**Saving Counters and Form Data on the Front End** - *jQuery & Browser Storage* (Zeb)][2-2C] | [**Lab: Create jQuery Selector** (Zeb)][2-3C] | [**Hermit Crabs and Turtles** - *OOP concepts* (Zeb)][2-4D] | [**Second Pass** (Zeb)][2-5C]
-**1:30pm Module 3** | [**Callbacks & Iterators** - *forEach, map, filter, reduce* (Joe)][2-1D] | [**Doomed?, Music, and Color Picker** - *HTML Forms* (Stefan)][2-2D] | [**Tweens and Rotating Greetings** - *CSS Transitions & Animations*][2-3D] (Nick) | [**Lab: Tic Tac Toe Refactor** - *OOP* (Zeb)][2-4E] | [**Wireframes** (Nick)][2-5D]
-**3:00pm Module 4** | [**Lab: Build Your Own Callbacks & Iterators** (Zeb)][2-1E] | [**Lab: Mad Libs** - *CSS for HTML Forms* (Stefan)][2-2E] | [**Lab: Tic-Tac-Toe** - *jQuery DOM Manipulation* (Nick)][2-3E] | [**Outcomes** (Nick)][2-4F] | [**CodeWars Intro**][2-5E] and [**Project 1 Intro**][2-5F] (Zeb)
+ **11:00am Module 2** | [**Pseudocode Your Life** - *Computational Thinking Lab* (Joe)][2-1C] | [**Saving Counters and Form Data on the Front End** - *jQuery & Browser Storage* (Zeb)][2-2C] | [**Lab: Create jQuery Selector** (Zeb)][2-3C] | [**Hermit Crabs and Turtles** - *OOP concepts* (Zeb)][2-4D] | [**Second Pass Resources** (Zeb)][2-5C] and [**Second Pass Lab (jQuery and ADTs)** (Zeb)][2-5D]
+**1:30pm Module 3** | [**Callbacks & Iterators** - *forEach, map, filter, reduce* (Joe)][2-1D] | [**Doomed?, Music, and Color Picker** - *HTML Forms* (Stefan)][2-2D] | [**Tweens and Rotating Greetings** - *CSS Transitions & Animations*][2-3D] (Nick) | [**Lab: Tic Tac Toe Refactor** - *OOP* (Zeb)][2-4E] | [**Wireframes** (Nick)][2-5E]
+**3:00pm Module 4** | [**Lab: Build Your Own Callbacks & Iterators** (Zeb)][2-1E] | [**Lab: Mad Libs** - *CSS for HTML Forms* (Stefan)][2-2E] | [**Lab: Tic-Tac-Toe** - *jQuery DOM Manipulation* (Nick)][2-3E] | [**Outcomes** (Nick)][2-4F] | [**CodeWars Intro**][2-5F] and [**Project 1 Intro**][2-5G] (Zeb)
 **Training** | **Part 1:** Make up old HWs | **Part 1:** Continue CSS for HTML Forms Lab | **Part 1:** Continue and Deploy Tic-Tac-Toe | [**Lab: Racer Game** - *HTML/CSS/JS Game*][2-4G] (Zeb) | Continue Racer Game and Project 1 Proposal
 **Training** | **Part 2:** Continue Callbacks and Iterators | **Part 2:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d03_Style_Guides" | **Part 2:** [OOP Prep][2-3F] |  |  |
 
@@ -147,9 +144,10 @@ Weekly Goals:
 [2-5A]: https://github.com/den-materials/developer-resources "Dev Resources"
 [2-5B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [2-5C]: https://github.com/den-wdi-4/week2_secondPass "Second Pass"
-[2-5D]: # "Wireframes"
-[2-5E]: https://www.codewars.com/dashboard "Code Wars"
-[2-5F]: https://github.com/den-materials/project-1 "Project 1"
+[2-5D]: https://github.com/den-materials/wdi5_w2_secondPassLab "Christmas Colors Lab"
+[2-5E]: # "Wireframes"
+[2-5F]: https://www.codewars.com/dashboard "Code Wars"
+[2-5G]: https://github.com/den-materials/project-1 "Project 1"
 
 #### Week 3 - Project 1:  Browser Game (9/25-9/29)
 
@@ -157,7 +155,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-Up** | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-1A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-2A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-3A] | Standup / Project 1 | Standup / Project 1
 **9:30am Module 1** | [**Agile Development** - *Pair Programming, TDD, and User Stories* (Zeb)][3-1A] | [**Phone Books and Bottles of Beer** - *Binary Search* (Zeb)][3-2A] | [**Pancakes and Line Cutters** - *Stacks and Queues* (Zeb)][3-3A] | Project 1 | Project 1
-**11:00am Module 2** | [**Lab: Plan Project 1** - *Agile Development* (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Standup / Project 1 | Final Prep and Submission
+**11:00am Module 2** | [**Lab: Plan Project 1** - *Agile Development* (Zeb)][3-1B] | Standup / Project 1 | Standup / Project 1 | Project 1 | Final Prep and Submission
 **1:30pm Module 3** | [**Project 1 Approvals**][3-1C] | [**Outcomes**][3-2B] | Project 1 | Project 1 | **Presentations**
 **3:00pm Module 4** | Project 1 |  Project 1 |  Project 1 | Project 1 | **Retrospective** and [**Fix an Issue** (Nick)][3-5D]
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
@@ -177,10 +175,7 @@ Weekly Goals:
 
 [3-3A]: https://github.com/den-materials/stacks-and-queues "Stacks and Queues"
 
-[3-5A]: # "Project 1"
-[3-5B]: # "Project 1"
-[3-5C]: # "Presentations"
-[3-5D]: https://github.com/den-materials/create-an-issue-project1 "Fix an issue"
+[3-5D]: https://github.com/den-materials/create-an-issue-project1 "Create an Issue"
 
 ## Unit 2: The Server
 
@@ -329,7 +324,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Zeb)][7-4F] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C]
  **1:30pm Module 3** | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Zeb)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Zeb)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | [**Outcomes** (Nick)][7-2C]
 **3:00pm Module 4** | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Zeb)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Zeb) | Custom Mentor Scoping/Planning
-**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | **Work on Custom Mentor Prototype**
+**Training** | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | [**Work on Custom Mentor Prototype**](https://github.com/den-materials/cutom-mentor-things)
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -373,9 +368,9 @@ Weekly Goals:
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | Custom Mentor Prep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
-**9:30am Module 1** | Custom Mentor Prep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | **Design Studio with UXDI!**
+**9:30am Module 1** | Custom Mentor Prep | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**Design Studio with UXDI!**](https://github.com/den-materials/wdi-design-studio)
  **11:00am Module 2** | Custom Mentor Prep | [**Death Square Pt 4** - *Observables Mini-Project* (Zeb)][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Nick)][8-4C]
-**1:30pm Module 3** | Custom Mentor  | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project* (Zeb)][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] (Zeb) | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Sketch and Photoshop Basics** (Nick)][8-4D]
+**1:30pm Module 3** | Custom Mentor  | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project* (Zeb)][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] (Zeb) | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Outcomes** (Nick)][8-5D]
 **3:00pm Module 4** | Custom Mentor | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Library and Crow's Feet** - *Relational Data Modeling* (Zeb)][8-4E] | [**Competitive and User Research** (Nick)][8-3F]
 **Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] & **Turn in Choose Your Own Adventure Work** | [**Interview Potential Users**][8-3G]
 
@@ -433,10 +428,10 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Zeb)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
+**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Nick)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
 **9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
  **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
-**1:30pm Module 3** | [**Outcomes** (Nick)][8-5D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku** (Zeb)][9-3G] | Project 3 | Project 3
+**1:30pm Module 3** | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku** (Zeb)][9-3G] | Project 3 | Project 3
 **3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | Project 3 | Project 3
 **Training** | [**Lab: Library** - *SQL Practice*][8-5F] | Continue Tunr | [**Project 3**][9-3F] | Project 3 | Project 3 | 
 
@@ -509,7 +504,7 @@ Weekly Goals:
 - Understand basic operations and web-dev IT
 - Improve Legacy Code
 
-# DO NOT TRUST ANYTHING BELOW THIS LINE
+# Schedule below is IN PROGRESS, it is SUBJECT TO CHANGE
 
 #### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
 
