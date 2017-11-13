@@ -505,7 +505,39 @@ Weekly Goals:
 - Understand basic operations and web-dev IT
 - Improve Legacy Code
 
-#### Week 11 - PHP, Developer-Chosen Topics/Projects (11/20-11/24)
+# Schedule below is IN PROGRESS, it is SUBJECT TO CHANGE
+
+#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Nick)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
+**9:30am Module 1** | [**Outcomes** (Nick)][11-2B] | [**React TODO** (Nick)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C] | NO | CLASS
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Nick)][11-2C] | [**React TODO** (Nick)][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | GIVING | THANKS
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Nick)][11-2D] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Nick)][11-4B] | [**Lab: Client Project** - *PHP Wordpress* (Nick)][11-4E] | NO CLASS | NO CLASS
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Nick)][11-4C]  | [**Second Pass** (Nick)][11-5A] | THANKSGIVING | NO CLASS
+**Training** | Continue React Tutorial | [**Finish React TODO** (Nick)][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
+
+[11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
+[11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-2C]: https://github.com/den-materials/react "React"
+[11-2D]: https://github.com/den-materials/redux "Redux"
+[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+[11-2F]: https://github.com/den-materials/react-todo-walkthrough-jquery "React TODO"
+
+[11-3A]: https://www.codewars.com "CodeWars"
+
+[11-4A]: https://www.codewars.com "CodeWars"
+[11-4B]: https://github.com/den-materials/php-intro "PHP Intro"
+[11-4C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
+[11-4D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
+[11-4E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
+[11-4F]: https://github.com/den-materials/lighting-talks "Lightning Talks"
+
+[11-5A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-5B]: https://github.com/den-materials/php-crud "PHP CRUD"
+[11-5C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
+[11-5E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
 
 Weekly Goals:
 - Create a PHP CRUD App
@@ -515,6 +547,17 @@ Weekly Goals:
 - Answer quasi-technical interview questions
 
 #### Week 12 - Final Project and Interview Work (11/27-12/1)
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am** | Freelance Project | Lightning Talks Prep | Scrum | Scrum | Scrum |
+**11:00am** | Freelance Project | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
+**Training** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project** | Project 4 | Project 4 | Project 4 | Project 4 |
+
+[12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
+[12-1D]: https://github.com/den-materials/project-4 "Project 4"
 
 Weekly Goals:
 
@@ -526,6 +569,14 @@ Weekly Goals:
 - Explain the merge sort algorithm
 
 #### Week 13 - Home Stretch (12/4-12/6)
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am** | Scrum | Scrum | Make-up Project Work | NO | NO
+**11:00am** | Project 4 | Project Work | **Mock Interviews** | CLASS | CLASS
+**2:00pm** | Project 4 | **Project Presentations** | **Practice Showcase** | WORK | WORK
+**3:00pm** | Project 4 | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON
+**Training** | Project Work | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
