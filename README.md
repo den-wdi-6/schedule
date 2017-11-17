@@ -32,7 +32,7 @@ Time  | Activity
 
 ## Unit 1: The Client
 
-#### Week 1 - Fundamentals and Tools (9/11-9/15)
+#### Week 1 - Fundamentals and Tools (11/27-12/1)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -90,7 +90,7 @@ Time |Day 1                                      | Day 2                        
  * Manipulate the DOM with Javascript
  * Think about problems programmatically
  
-#### Week 2 - JavaScript & Front-end Libraries (9/18-9/22)
+#### Week 2 - JavaScript & Front-end Libraries (12/4-12/8)
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
@@ -149,7 +149,7 @@ Weekly Goals:
 [2-5F]: https://www.codewars.com/dashboard "Code Wars"
 [2-5G]: https://github.com/den-materials/project-1 "Project 1"
 
-#### Week 3 - Project 1:  Browser Game (9/25-9/29)
+#### Week 3 - Project 1:  Browser Game (12/11-12/15)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -179,7 +179,7 @@ Weekly Goals:
 
 ## Unit 2: The Server
 
-#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (10/2-10/6)
+#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (12/18-12/22)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -227,7 +227,9 @@ Weekly Goals:
 [4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
 
-#### Week 5 - Full-Stack Apps, MVC, and Testing (10/9-10/13)
+#### NO CLASS HOLIDAY BREAK (12/25-1/1)
+
+#### Week 5 - Full-Stack Apps, MVC, and Testing (1/2-1/5)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -271,7 +273,7 @@ Weekly Goals:
 [5-5D]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions in a Line"
 [5-5E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 
-#### Week 6 - User Management and Project 2: Full-stack CRUD App (10/16-10/20)
+#### Week 6 - User Management and Project 2: Full-stack CRUD App (1/8-1/12)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -315,7 +317,7 @@ Extra Resources:
 
 ## Unit 3: SEAN Stack and Group Work
 
-#### Week 7 - Angular and Angular Tools (10/23-10/27)
+#### Week 7 - Angular and Angular Tools (1/16-1/19)
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
@@ -363,7 +365,7 @@ Weekly Goals:
 [7-5I]: https://goo.gl/forms/4fxQee6ysrlLDl4j1 "Jasmine and ng test Quiz"
 [7-5J]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/star_wars_api.md "Star Wars API"
 
-#### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
+#### Week 8 - More Angular/Full-stack and SQL (1/22-1/26)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -424,7 +426,7 @@ Weekly Goals:
 [8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL"
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 
-#### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
+#### Week 9 - Project 3: SEAN Stack Group Project (1/29-2/2)
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
@@ -470,7 +472,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, Ionic, Group Project, and Legacy Code (11/13-11/17)
+#### Week 10 - Angular 1, Ionic, Group Project, and Legacy Code (2/5-2/9)
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -506,7 +508,7 @@ Weekly Goals:
 
 # Schedule below is IN PROGRESS, it is SUBJECT TO CHANGE
 
-#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
+#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (2/12-2/16)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -545,7 +547,7 @@ Weekly Goals:
 - Create a software-hardware hybrid project
 - Answer quasi-technical interview questions
 
-#### Week 12 - Final Project and Interview Work (11/27-12/1)
+#### Week 12 - Final Project and Interview Work (2/20-2/23)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
@@ -567,7 +569,7 @@ Weekly Goals:
 - Demonstrate work to technical and non-technical observers
 - Explain the merge sort algorithm
 
-#### Week 13 - Home Stretch (12/4-12/6)
+#### Week 13 - Home Stretch (2/26-2/28)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
