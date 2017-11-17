@@ -32,7 +32,7 @@ Time  | Activity
 
 ## Unit 1: The Client
 
-#### Week 1 - Fundamentals and Tools (9/11-9/15)
+#### Week 1 - Fundamentals and Tools (11/27-12/1)
 
 \* Student Profile and Headshot
 
@@ -49,7 +49,7 @@ Time  | Activity
  * Manipulate the DOM with Javascript
  * Think about problems programmatically
  
-#### Week 2 - JavaScript & Front-end Libraries (9/18-9/22)
+#### Week 2 - JavaScript & Front-end Libraries (12/4-12/8)
 
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
@@ -61,11 +61,11 @@ Weekly Goals:
 	* Create a fork of a repository
 	* Use Pull Requests to improve a repository's quality 
 
-#### Week 3 - Project 1:  Browser Game (9/25-9/29)
+#### Week 3 - Project 1:  Browser Game (12/11-12/15)
 
 ## Unit 2: The Server
 
-#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (10/2-10/6)
+#### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (12/18-12/22)
 
 Weekly Goals:
 * Leverage other developers to support and improve projects
@@ -76,7 +76,9 @@ Weekly Goals:
 * Save JSON-like data to a server's Mongo database
 * Utilize server-side rendering with templates
 
-#### Week 5 - Full-Stack Apps, MVC, and Testing (10/9-10/13)
+#### NO CLASS HOLIDAY BREAK (12/25-1/1)
+
+#### Week 5 - Full-Stack Apps, MVC, and Testing (1/2-1/5)
 
 Weekly Goals:
 * Utilize Sass to improve and DRY out CSS code
@@ -84,7 +86,7 @@ Weekly Goals:
 * Build and test an API integration
 * Integrate Bootstrap to improve styles and save time
 
-#### Week 6 - User Management and Project 2: Full-stack CRUD App (10/16-10/20)
+#### Week 6 - User Management and Project 2: Full-stack CRUD App (1/8-1/12)
 
 Weekly Goals:
 
@@ -96,7 +98,7 @@ Weekly Goals:
 
 ## Unit 3: SEAN Stack and Group Work
 
-#### Week 7 - Angular and Angular Tools (10/23-10/27)
+#### Week 7 - Angular and Angular Tools (1/16-1/19)
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -106,7 +108,7 @@ Weekly Goals:
 - Use `Http` to communicate from Angular front-end to back-end
 - Configure front-end routing with Angular
 
-#### Week 8 - More Angular/Full-stack and SQL (10/30-11/3)
+#### Week 8 - More Angular/Full-stack and SQL (1/22-1/26)
 
 Weekly Goals:
 - Deliver a prototype to a local startup
@@ -118,7 +120,7 @@ Weekly Goals:
 - Understand the basics of Sketch and Photoshop
 - Map out data relations for a web app
 
-#### Week 9 - Project 3: SEAN Stack Group Project (11/6-11/10)
+#### Week 9 - Project 3: SEAN Stack Group Project (1/29-2/2)
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
@@ -130,7 +132,7 @@ Weekly Goals:
 
 ## Unit 4: Becoming a Developer
 
-#### Week 10 - Angular 1, Ionic, Group Project, and Legacy Code (11/13-11/17)
+#### Week 10 - Angular 1, Ionic, Group Project, and Legacy Code (2/5-2/9)
 
 Weekly Goals:
 
@@ -141,7 +143,7 @@ Weekly Goals:
 - Understand basic operations and web-dev IT
 - Improve Legacy Code
 
-#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (11/20-11/24)
+#### Week 11 - React, PHP and Developer-Chosen Topics/Projects (2/12-2/16)
 
 Weekly Goals:
 - Create a PHP CRUD App
@@ -150,7 +152,7 @@ Weekly Goals:
 - Create a software-hardware hybrid project
 - Answer quasi-technical interview questions
 
-#### Week 12 - Final Project and Interview Work (11/27-12/1)
+#### Week 12 - Final Project and Interview Work (2/20-2/23)
 
 Weekly Goals:
 
@@ -161,7 +163,7 @@ Weekly Goals:
 - Demonstrate work to technical and non-technical observers
 - Explain the merge sort algorithm
 
-#### Week 13 - Home Stretch (12/4-12/6)
+#### Week 13 - Home Stretch (2/26-2/28)
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
