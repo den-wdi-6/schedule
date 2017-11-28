@@ -41,7 +41,7 @@ Time |Day 1                                      | Day 2                        
  **11:00am Module 2** | [**7 Layers and the Sharks Who Love Them** - *How the Internet Works* (Joe)][1-1C] \* | [**Lab: From Idea to Website** - *Mockup to HTML/CSS* (Zeb)][1-2C] | [**Class Full of Monkeys** - *Objects in JavaScript* (Joe)][1-3C] | [**Lab: Max, Sum, Reverse** - *JavaScript functions* (Joe)][1-4C] | [**Rollercoaster, Donuts, and Fruit** - *Mastering control flow* (Joe)][1-5C]
  **1:30pm Module 3** | [**Jurassic Park and chmod** - *Navigating the file system + some meta skills* (Zeb)][1-1D] | [**Your WDI Workflow** - *Git Commands and GitHub* (Joe)][1-2D] | [**Outcomes** (Nick)][1-3D] | [**Hack the Planet** - *DOM manipulation and events* (Joe)][1-4D] | [**Mobile-Friendly Class Page** - *Responsive Design and Media Queries* (Joe)][1-5D]
 **3:00pm Module 4** | [**WDI Diagnostic**][1-1E] and **GH Issue Lab** (Joe)  | [**Lab: Relaxr** - *Design and CSS Challenge* (Joe)][1-2E] | [**Elements, Network, and Console Tabs** - *Chrome dev tools* (Zeb)][1-3E] | [**Lab: LOTR** - *DOM manipulation* (Zeb)][1-4E] | [**Week 1 Assessment** - *Pixel Perfect Website Recreation* (Zeb)][1-5E]   
-**Training** | [**Lab: Best Music/Movies/Books of the Year** - *Command Line Practice*][1-1F] (Joe) | Continue Design/CSS Lab | [**Lab: Build a Portfolio Page** - *HTML/CSS from Scratch* (Zeb)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
+**Training** | [**Lab: Best Music/Movies/Books of the Year** - *Command Line Practice*][1-1F] (Joe) | Continue Design/CSS Challeng / Relaxr | [**Lab: Build a Portfolio Page** - *HTML/CSS from Scratch* (Zeb)][1-3F] | Continue LOTR Lab | Continue Instagram Recreation
 
 \* Student Profile and Headshot
 
