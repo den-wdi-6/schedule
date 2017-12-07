@@ -145,7 +145,7 @@ Weekly Goals:
 [2-5B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [2-5C]: https://github.com/den-wdi-4/week2_secondPass "Second Pass"
 [2-5D]: https://github.com/den-materials/wdi5_w2_secondPassLab "Christmas Colors Lab"
-[2-5E]: # "Wireframes"
+[2-5E]: https://github.com/den-materials/wireframes "Wireframes"
 [2-5F]: https://www.codewars.com/dashboard "Code Wars"
 [2-5G]: https://github.com/den-materials/project-1 "Project 1"
 
