@@ -100,7 +100,7 @@ Time |Day 1                                      | Day 2                        
 **1:30pm Module 3** | [**Callbacks & Iterators** - *forEach, map, filter, reduce* (Joe)][2-1D] | [**Doomed?, Music, and Color Picker** - *HTML Forms* (Joe)][2-2D] | [**Tweens and Rotating Greetings** - *CSS Transitions & Animations*][2-3D] (Tyler) | [**Outcomes** (Nick)][2-4F] | [**Lab: Tic Tac Toe Refactor** - *OOP* (Joe)][2-4E]
 **3:00pm Module 4** | [**Lab: Build Your Own Callbacks & Iterators** (Joe)][2-1E] | [**Lab: Mad Libs** - *CSS for HTML Forms* (Joe)][2-2E] | [**Lab: Tic-Tac-Toe** - *jQuery DOM Manipulation* (Joe)][2-3E] | [**Wireframes** (Nick)][2-5E] | [**CodeWars Intro**][2-5F] and [**Project 1 Intro**][2-5G] (Joe)
 **Training** | **Part 1:** Make up old HWs | **Part 1:** Continue CSS for HTML Forms Lab | **Part 1:** Continue and Deploy Tic-Tac-Toe | [**Lab: Racer Game** - *HTML/CSS/JS Game*][2-4G] (Zeb) | Continue Racer Game and Project 1 Proposal
-**Training** | **Part 2:** Continue Callbacks and Iterators | **Part 2:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and Quiz "w02_d03_Style_Guides" | **Part 2:** [OOP Prep][2-3F] |  |  |
+**Training** | **Part 2:** Continue Callbacks and Iterators |  | **Part 2:** [OOP Prep][2-3F] | **Part 2:** Read [HTML/CSS][2-1F] and [JS][2-1G] Style Guides and [Quiz](https://goo.gl/forms/DLsKeuo0oYqmC6Xs1) |  |
 
 Weekly Goals:
 * Understand the principles of Object Oriented Programming with Javascript
