@@ -161,6 +161,23 @@ Time | Day 1                                      | Day 2                       
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | Fixing Issues
 ## Unit 2: The Server
 
+Weekly Goals:
+* Create a browser-based game for your porfolio
+* Learn about common ways software companies organize projects
+* Explain the binary search algorithm
+* Explain the structure of stacks and queues
+
+[3-1A]: https://github.com/den-materials/software-development-best-practices "Agile development and user stories"
+[3-1B]: https://github.com/den-materials/agile-lab "Agile Lab"
+[3-1C]: https://github.com/den-materials/project-1 "Project 1 Specs"
+
+[3-2A]: https://github.com/den-materials/binary-search "Binary Search"
+[3-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+
+[3-3A]: https://github.com/den-materials/stacks-and-queues "Stacks and Queues"
+
+[3-5D]: https://github.com/den-materials/create-an-issue-project1 "Create an Issue"
+
 #### Week 4 - Full-Stack JS: AJAX, Node, Express, and Mongo (12/18-12/22)
 
 Weekly Goals:
