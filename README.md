@@ -189,7 +189,7 @@ Time | Day 1                                    | Day 2                         
 **11:00am Module 2** | [**Books API Pt 2** - *AJAX*][4-1C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Joe)][4-2C] | [**Time and Bicycles** - *Building Express Routes* (Joe)][4-3C] | [**Lab: Restaurants** - *Mongo CLI*][4-4C] (Joe) | [**Lab: Quotes** - *Views in Express* (Joe)][4-5C]
 **1:30pm Module 3** | [**Lab: Books API** *AJAX*][4-1D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-2D] (Joe) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-3D] | [**Reminders** - *Mongoose Intro*][4-4D] (Zeb) | [**Outcomes** (Nick)][4-5D]
 **3:00pm Module 4** | [**SuperCRUD Queries** - *API Practice*][4-1E] (Zeb) | [**Lab: Favorite Movies** - *Requesting with Node*][4-2E] (Joe) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-3E] (Tyler) |  [**More Mongoose**][4-4D] (Zeb) | [**Lab: TODO API** - *JSON API Creation*][4-5E] (Zeb)
-**Training** | Continue Cats API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab | Continue TODO API
+**Training** | Continue Books API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab | Continue TODO API
 
 Weekly Goals:
 * Leverage other developers to support and improve projects
