@@ -188,7 +188,7 @@ Time | Day 1                                    | Day 2                         
  **9:30am Module 1** | [**Books API** - *Requests and Postman*][4-1B] (Zeb) | [**Build a Search Engine** - *Connecting Forms to APIs via AJAX*][4-2B] (Joe) | [**Routing, Tacos, and Cats** - *Intro to Express* (Joe)][4-3B] | [**Restaurants and More** - *Mongo Intro*][4-4B] (Joe) | [**Candies Again** - *Views in Express* (Joe)][4-5B]
 **11:00am Module 2** | [**Books API Pt 2** - *AJAX*][4-1C] (Zeb) | [**Intro to Node.js** - *Asynchronicity, TDD, File I/O, HTTP Server, and Modules* (Joe)][4-2C] | [**Time and Bicycles** - *Building Express Routes* (Joe)][4-3C] | [**Lab: Restaurants** - *Mongo CLI*][4-4C] (Joe) | [**Lab: Quotes** - *Views in Express* (Joe)][4-5C]
 **1:30pm Module 3** | [**Lab: Books API** *AJAX*][4-1D] (Zeb) | [**Lab: Weather Underground** - *Node CLI*][4-2D] (Joe) | [**Lab: Candies** - *Building Express Routes* (Zeb)][4-3D] | [**Reminders** - *Mongoose Intro*][4-4D] (Zeb) | [**Outcomes** (Nick)][4-5D]
-**3:00pm Module 4** | [**SuperCRUD Queries** - *API Practice*][4-1E] (Zeb) | [**Lab: Favorite Movies** - *Requesting with Node*][4-2E] (Joe) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-3E] (Tyler) |  [**More Mongoose**][4-4D] (Zeb) | [**Lab: TODO API** - *JSON API Creation*][4-5E] (Zeb)
+**3:00pm Module 4** | [**SuperCRUD Queries** - *API Practice*][4-1E] (Zeb) | [**Lab: Favorite Movies** - *Requesting with Node*][4-2E] (Joe) | [**Burgers and Tacos** - *Express, Parameters, and Middleware*][4-3E] (Tyler) |  [**More Mongoose**][4-4D] (Zeb) | [**Lab: TODO API** - *JSON API Creation*][4-5E] and [**API Research**][4-5F] (Zeb)
 **Training** | Continue Books API (AJAX) Lab | Continue Requesting with Node (Movies) Lab | Continue Candies (Express Routing) Lab | Continue Restaurants (Mongo CLI) Lab | Continue TODO API
 
 Weekly Goals:
@@ -227,6 +227,7 @@ Weekly Goals:
 [4-5C]: https://github.com/den-materials/express-views-lab "Views in Express Lab"
 [4-5D]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [4-5E]: https://github.com/den-materials/test-driven-todo-api "Todo Lab"
+[4-5F]: https://github.com/den-materials/api-lightning-talk "During Break Stuff"
 
 #### NO CLASS HOLIDAY BREAK (12/25-1/1)
 
