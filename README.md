@@ -233,11 +233,47 @@ Weekly Goals:
 
 #### Week 5 - Full-Stack Apps, MVC, and Testing (1/2-1/5)
 
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+ **9:00am Warm-Up** | NEW YEARS | [**API Squad Recap**][4-5F] and [**Questions in a Line**][5-2A] (Joe & Zeb) | [**Second Pass** (Joe)][5-3A] | [**CodeWars**][5-4A] | [**Outcomes** (Nick)][5-5A]
+ **9:30am Module 1** | DAY | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2B] (Joe) | [**UX Crash Course** - *UX Ideation and Hierarchy of Needs*][5-3B] (Joe) | [**ShakeItSpeare API Testing** - *Node Requests and Mocha*][5-4B] (Zeb) | [**Sass Preprocessing Research** - *Variables, Nesting, Inheritance, and Mixins* (Zeb)][5-5B]
+**11:00am Module 2** | NO | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2C] (Joe) |  [**Dogs and TDD** - *Acceptance vs Unit Tests and Mocha*][5-3C] (Joe) | [**Lab: Research and Test External API for Project 2**][5-4C] (Joe) | [**Intro to Bootstrap** - *Columns, Responsiveness, and More*][5-5C] (Joe)
+**1:30pm Module 3** | CLASS | [**Lab: Full-Stack Books** - *Mongoose and Full-Stack JS*][5-2D] (Joe) | [**Lab: Fibonacci Tests** - *TDD, Mocha, and Recursion*][5-3D] (Zeb) and [**Project 2 Intro**][5-3E] | [**Lab: Research and Test External API for Project 2**][5-4D] (Joe) | [**Questions in a Line**][5-5D]
+**3:00pm Module 4** | NEW YEARS | [**Cargo Planes** - *Intro to MVC*][5-2E] (Zeb) | [**Lab: Personal API** - *Heroku and JSON APIs*][5-3F] (Zeb) | [**Project 2 Ideation / Wireframes**][5-4E] (Joe) | [**Map Wireframes to Views**][5-5E] (Joe)
+**Training** | DAY | [**Testing Reading and Quiz**][5-2F] | Personal API | Get External API Set Up for Project 2 & [**Project 2 Proposal**][5-4F] | **Mock out Project 2 w/ Lorem and Mock Data Only**
+
 Weekly Goals:
 * Utilize Sass to improve and DRY out CSS code
 * Write a software test suite with Mocha and Chai
 * Build and test an API integration
 * Integrate Bootstrap to improve styles and save time
+
+[5-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
+[5-2B]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2C]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2D]: https://github.com/den-materials/mongoose-books-app "Full Stack JavaScript Lab"
+[5-2E]: https://github.com/den-materials/mvc-intro "MVC Intro"
+[5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
+
+[5-3A]: https://github.com/den-wdi-3/unit2_week1_secondpass "Second Pass"
+[5-3B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
+[5-3C]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
+[5-3D]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
+[5-3E]: https://github.com/den-materials/project-2 "Project 2"
+[5-3F]: https://github.com/den-materials/express-personal-api "Personal API"
+
+[5-4A]: https://www.codewars.com/ "CodeWars"
+[5-4B]: https://github.com/den-materials/api-testing "Testing API Calls"
+[5-4C]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-4D]: https://github.com/den-materials/external-API-research "Research and Test External API Lab"
+[5-4E]: https://github.com/den-materials/project-2-ideation "Project 2 Ideation / Wireframes"
+[5-4F]: https://github.com/den-materials/project-2 "Project 2 Proposal"
+
+[5-5A]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[5-5B]: https://github.com/den-materials/sass-intro-1/blob/master/sass.md "Sass"
+[5-5C]: https://github.com/den-materials/bootstrap "Intro to Bootstrap"
+[5-5D]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-06.md "Questions in a Line"
+[5-5E]: https://github.com/den-materials/mapping-wireframes "Map Wireframes to HTML/CSS Components for Project 2"
 
 #### Week 6 - User Management and Project 2: Full-stack CRUD App (1/8-1/12)
 
