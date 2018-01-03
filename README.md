@@ -255,7 +255,7 @@ Weekly Goals:
 [5-2E]: https://github.com/den-materials/mvc-intro "MVC Intro"
 [5-2F]: https://mochajs.org/ "Testing Reading and Quiz"
 
-[5-3A]: https://github.com/den-wdi-3/unit2_week1_secondpass "Second Pass"
+[5-3A]: https://github.com/den-wdi-6/unit2_week1_secondpass "Second Pass"
 [5-3B]: https://github.com/den-materials/ux-crash-course "UX Crash Course"
 [5-3C]: https://github.com/den-materials/tdd-and-mocha "Intro to TDD"
 [5-3D]: https://github.com/den-materials/tdd-fibonacci "Testing Lab"
