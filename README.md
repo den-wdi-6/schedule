@@ -279,13 +279,12 @@ Weekly Goals:
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
- **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | Standup | [**FizzBuzz** - *JS Problem Solving*][6-4A] | [**Second Pass**][6-3A] (Joe)
- **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Zeb) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | [**Outcomes** (Nick)][6-3B] | Standup | Standup
- **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Zeb)  | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Joe) | [**Intro to Scoping**][6-3C] (Joe) and [**Project 2 Trello**][6-3D]  (Joe) | Project 2 | Project 2
- **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Joe) | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Joe) | [**Project 2 Advice**][6-3D] | Project 2 | Project 2
-**3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Joe) | **Integrate Passport into Project 2** | Project 2 | Project 2 | Project 2
+ **9:00am Warm-Up** | [**Non-Tech Lightning Talks**][6-1A] | [**Non-Tech Lightning Talks**][6-2A] | [**FizzBuzz** - *JS Problem Solving*][6-4A] | Standup | [**Second Pass**][6-3A] (Joe)
+ **9:30am Module 1** | [**Planes in Folders** - *MVC App Organization*][6-1B] (Zeb) | [**Fireworks and Passwords** - *bcrypt, Authentication, and Authorization*][6-2C] (Joe) | [**Outcomes** (Nick)][6-3B] | Standup | Standup
+ **11:00am Module 2** | [**Planes in Folders** - *MVC App Organization*][6-1C] (Zeb)  | [**Intro to Passport** - *Login, Logout, Signup with Node*][6-2D] (Joe) | [**Intro to Scoping**][6-3C] (Joe) and [**Project 2 Trello**][6-3D]  (Joe) | Project 2 | Project 2
+ **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Joe) |  **Integrate Passport into Project 2** | [**Project 2 Advice**][6-3D] | Project 2 | Project 2
+**3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Joe) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | Project 2 | Project 2 | Project 2
 **Training** | Continue Tunely | [**Work on Project 2 Structure**][6-2F] | Project 2 | Project 2 | Project 2
-
 Weekly Goals:
 
 * Utilize Gulp to save time on repetitive tasks
