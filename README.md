@@ -289,6 +289,15 @@ Weekly Goals:
 
 #### Week 7 - Angular and Angular Tools (1/16-1/19)
 
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+ **9:00am Warm-up** | MLK | **A-Ha Moments** |  Project 2 | [**Project 3 Intro** (Zeb)][7-3A] | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | 
+ **9:30am Module 1** | DAY | Standup | Retrospective | [**Intro to Angular**][7-3D] and [**Multiplying and Battle** - Typescript][7-3E] (Joe) | [**Personal Site** - *Angular Routing and Single Page Apps* (Zeb)][7-4E] | 
+ **11:00am Module 2** | NO | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Joe)][7-4F] | 
+ **1:30pm Module 3** | CLASS | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Tyler)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Joe)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | 
+**3:00pm Module 4** | MLK DAY | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Joe)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Outcomes** (Nick)][7-2C] | 
+**Training** | NO CLASS | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Joe) and **Project 3 Pitch Prep** | 
+
 Weekly Goals:
 - Wrap up ES6 Fundamentals
 - Understand what Angular is
@@ -296,6 +305,35 @@ Weekly Goals:
 - Create your own components with the Angular CLI
 - Use `Http` to communicate from Angular front-end to back-end
 - Configure front-end routing with Angular
+
+[7-2C]: https://github.com/den-materials/portfolio-starter-kit "Make a Portfolio!"
+[7-2D]: https://github.com/den-materials/create-an-issue-project2 "Create Issues"
+
+[7-3A]: https://github.com/den-materials/project-03 "Project 3"
+[7-3B]: https://github.com/den-materials/es6-part2 "More ES6"
+[7-3C]: https://github.com/den-materials/authentication-and-math "Auth Math"
+[7-3D]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/01-intro.md "Intro to Angular" 
+[7-3E]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/02-typescript.md "Intro to Typescript" 
+[7-3F]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/02a-optional-more-typescript.md "Intro to Typescript"
+[7-3G]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/03-angular-basics.md "Angular Basics"
+
+[7-4A]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/04-angular-components.md "Angular Components"
+[7-4B]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/05-angular-directives.md "Angular Directives"
+[7-4C]: https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/06-summary.md "Summary"
+[7-4D]: https://github.com/den-materials/angular/tree/master/projects/project-01-components "Components Project"
+[7-4E]: https://github.com/den-materials/angular/tree/master/lectures/02-routing-apis "Day 2 Lessons"
+[7-4F]: https://github.com/den-materials/death-square-routing "Routing Project"
+
+[7-5A]: https://github.com/den-materials/project-03 "Project 3 Pitch"
+[7-5B]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/08_what_is_an_api.md "What Is an API?"
+[7-5C]: https://github.com/den-materials/death-square-api "API Project"
+[7-5D]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01-observables.md "HTTP/Observables"
+[7-5E]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/01.5-observables-recap.md "HTTP/Observables"
+[7-5F]: https://github.com/den-materials/death-square-observables "Observables Project"
+[7-5G]: https://www.sitepoint.com/ultimate-angular-cli-reference/#runningyourunittests "Jasmine, Karma, and Angular"
+[7-5H]: https://marcofranssen.nl/jasmine-vs-mocha/ "Jasmine vs Mocha"
+[7-5I]: https://goo.gl/forms/4fxQee6ysrlLDl4j1 "Jasmine and ng test Quiz"
+[7-5J]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/star_wars_api.md "Star Wars API"
 
 #### Week 8 - More Angular/Full-stack and SQL (1/22-1/26)
 
