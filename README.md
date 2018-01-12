@@ -285,6 +285,7 @@ Time | Day 1                                    | Day 2                         
  **1:30pm Module 3** | [**Lab: Tunely** - *Full-Stack JS*][6-1D] (Joe) |  **Integrate Passport into Project 2** | [**Project 2 Advice**][6-3D] | [**Intro to Scoping**][6-3C] (Nick) | [**Second Pass**][6-3A] (Zeb)
 **3:00pm Module 4** | [**Lab: Tunely** - *Full-Stack JS*][6-1E] (Joe) | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B] | Project 2 | Project 2 | Project 2
 **Training** | Continue Tunely | [**Work on Project 2 Structure**][6-2F] | Project 2 | Project 2 | Project 2
+
 Weekly Goals:
 
 * Utilize Gulp to save time on repetitive tasks
