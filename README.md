@@ -326,7 +326,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | NO | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Joe)][7-4F] | 
  **1:30pm Module 3** | CLASS | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Tyler)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Joe)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | 
 **3:00pm Module 4** | MLK DAY | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Joe)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Outcomes** (Nick)][7-2C] | 
-**Training** | NO CLASS | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Joe) and **Project 3 Pitch Prep** | 
+**Training** | NO CLASS | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** and **Project 2 Cleanup** | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
@@ -371,7 +371,7 @@ Time | Day 1                                      | Day 2                       
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Warm-up** | Project/HW Catchup | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
 **9:30am Module 1** | [**Project 3 Pitches**][7-5A] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**Design Studio with UXDI!**](https://github.com/den-materials/wdi-design-studio)
- **11:00am Module 2** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | [**Death Square Pt 4** - *Observables Mini-Project* (Joe)][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Advanced Debugging (Joe)**][8-5G]
+ **11:00am Module 2** | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Joe) | [**Death Square Pt 4** - *Observables Mini-Project* (Joe)][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Advanced Debugging (Joe)**][8-5G]
 **1:30pm Module 3** | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Joe)][6-2B]  | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project* (Zeb)][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] (Zeb) | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Outcomes** (Nick)][8-5D]
 **3:00pm Module 4** | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Joe)][8-4C] | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Library and Crow's Feet** - *Relational Data Modeling* (Zeb)][8-4E] | [**Competitive and User Research** (Nick)][8-3F]
 **Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] & **Turn in Choose Your Own Adventure Work** | [**Interview Potential Users**][8-3G]
@@ -552,7 +552,7 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | Freelance Project | Lightning Talks Prep | Scrum | Scrum | Scrum |
+**9:00am** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Lightning Talks Prep | Scrum | Scrum | Scrum |
 **11:00am** | Freelance Project | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
 **2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
 **3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
