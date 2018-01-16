@@ -327,7 +327,7 @@ Time | Day 1                                    | Day 2                         
  **11:00am Module 2** | NO | Project 2 | **Project 2 Presentations** | [**Game of Thrones and Math** - *More TypeScript* (Zeb)][7-3F] & [**Our First Angular App** - *Angular Basics* (Zeb)][7-3G] | [**Death Square Pt 2** - *Angular Routing Mini-Project* (Joe)][7-4F] | 
  **1:30pm Module 3** | CLASS | Project 2 | [**ES6 Lesson Part 2** - *Concise Objects, Template Literals, Arrow Functions, and Spread* (Tyler)][7-3B] | [**Master Sword and Hylian Shield** - *Angular Components* (Joe)][7-4A] | [**APIs Pt 1** - *Angular APIs*][7-5B] and [**Star Wars API** - *Integrate Angular with 3rd Party API*(Zeb)][7-5J] | 
 **3:00pm Module 4** | MLK DAY | Project 2 | [**Create Issues** (Zeb)][7-2D] | [**Pokemon, Man** - *Angular Directives* (Joe)][7-4B] and [**Summary of Components and Angular Basics**][7-4C] | [**Outcomes** (Nick)][7-2C] | 
-**Training** | NO CLASS | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Joe) and **Project 3 Pitch Prep** | 
+**Training** | NO CLASS | **Project 2** | **Fix Issues** | [**Angular and Typescript Quiz**](https://goo.gl/forms/J0EMsyNdeXKu5Opv1) and [**Death Square Pt 1** - *Components Project*][7-4D] (Zeb) | **Project 3 Pitch Prep** | 
 
 Weekly Goals:
 - Wrap up ES6 Fundamentals
