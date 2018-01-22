@@ -378,7 +378,8 @@ Time | Day 1                                      | Day 2                       
 **Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] & **Turn in Choose Your Own Adventure Work** | [**Interview Potential Users**][8-3G]
 
 Weekly Goals:
-- Deliver a prototype to a local startup
+- Learn how to set up a project with Gulp
+- Add Sass to your projects
 - Differentiate between promises and observables
 - Use Jasmine to test Angular apps
 - Use ServiceWorkers to enable smooth offline performance
