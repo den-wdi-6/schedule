@@ -366,7 +366,16 @@ Weekly Goals:
 [7-5I]: https://goo.gl/forms/4fxQee6ysrlLDl4j1 "Jasmine and ng test Quiz"
 [7-5J]: https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/star_wars_api.md "Star Wars API"
 
-#### Week 8 - More Angular/Full-stack and SQL (1/22-1/26)
+#### Week 8 - More Angular and Useful Tools (1/22-1/26)
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Warm-up** | Project/HW Catchup | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5D] | [**Recap Lesson**][8-1G] & [**Angular Packages Activity**][8-1H] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3A] | [**Steve's Return** - *Angular Troubleshooting* (Zeb)][8-4A]
+**9:30am Module 1** | [**Project 3 Pitches**][7-5A] | [**Star Wars API Pt 2** - *HTTP Observables* (Zeb)][7-5E] | [**Intro to Vending Machine** - *Angular User Stories*][8-2A] (Zeb) | [**Comments App Pt 3** - *Fixing Bugs* (Zeb)][8-3B] | [**Design Studio with UXDI!**](https://github.com/den-materials/wdi-design-studio)
+ **11:00am Module 2** | [**Death Square Pt 3** - *API Mini-Project*][7-5C] (Joe) | [**Death Square Pt 4** - *Observables Mini-Project* (Joe)][7-5F] | More Vending Machine (Zeb) | [**Choose Your Own Adventure** (Zeb)][8-3C] | [**Advanced Debugging (Joe)**][8-5G]
+**1:30pm Module 3** | [**Intro to Gulp** - *Tasks, Transpilation, and Minification* (Zeb)][6-2B]  | [**Dogs and People** - *Intro to Jasmine* (Zeb)][8-1B] & [**Death Square Pt 5** - *Testing Mini-Project* (Zeb)][8-1C] | [**Questions in a Line**][8-2B] & [**Second Pass**][8-2C] (Zeb) | [**Choose Your own Adventure**][8-3D] and [Recap Exercise][8-3E] (Zeb) | [**Outcomes** (Nick)][8-5D]
+**3:00pm Module 4** | [**Sassy Node** - *Gulp, Nesting, Variables, Functions, Mixins, Partials, and Inheritance* (Joe)][8-4C] | [**Offline Angular** - *Service Workers* (Zeb)][8-1D] | [**Comments App Pt 1** - *Adding a Feature* (Zeb)][8-2D] | [**Library and Crow's Feet** - *Relational Data Modeling* (Zeb)][8-4E] | [**Competitive and User Research** (Tyler)][8-3F]
+**Training** | **[Testing][7-5G] [Reading][7-5H] and [Quiz][7-5I]** | [**Death Square Pt 6** - *Service Workers Mini-Project*][8-1E] | [**Comments App Pt 2** - *Changing a Feature* (Zeb)][8-2E] | **Reading Assignments**: DBs and SQL [#1][8-4F] [#2][8-4G] [#3][8-4H] and [**Quiz**][8-4I] & **Turn in Choose Your Own Adventure Work** | [**Interview Potential Users**][8-3G]
 
 Weekly Goals:
 - Deliver a prototype to a local startup
@@ -377,6 +386,47 @@ Weekly Goals:
 - Improve a legacy code base through bug fixes, feature fixing, and feature creation
 - Understand the basics of Sketch and Photoshop
 - Map out data relations for a web app
+
+[8-1A]: https://www.codewars.com "CodeWars"
+[8-1B]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/02-jasmine-and-tdd.md "Jasmine and Angular"
+[8-1C]: https://github.com/den-materials/death-square-testing "Testing Mini-Project"
+[8-1D]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/03-service-workers.md "Service Workers"
+[8-1E]: https://github.com/den-materials/death-square-service-workers "Service Workers Mini-Project"
+[8-1F]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/04-angular-universal.md "Angular Universal"
+[8-1G]: https://github.com/den-materials/angular/blob/master/lectures/04-recap/01-recap.md "Recap"
+[8-1H]: https://github.com/den-materials/angular/blob/master/lectures/03-observables-tdd-universal/05-angular-packages.md "Angular Packages"
+
+[8-2A]: https://github.com/den-materials/angular-vending-machine "Vending Machine"
+[8-2B]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-08.md "Questions in a Line"
+[8-2C]: https://github.com/den-wdi-4/unit3_week1_secondpass "Second Pass"
+[8-2D]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-2E]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+
+[8-3A]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3B]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3C]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3D]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases "Day 5 Exercises"
+[8-3E]: https://github.com/den-materials/angular/tree/master/lectures/05-existing-codebases/recap.md "Recap Exercise"
+[8-3F]: https://github.com/den-materials/user-research-and-competitive-analysis "Competitive and User Research"
+[8-3G]: https://github.com/den-materials/user-Research-lab "Competitive and User Research Interviews"
+
+[8-4A]: https://github.com/den-materials/angular-tShoot "Angular Troubleshooting"
+[8-4B]: https://github.com/den-materials/flexbox "Flexbox"
+[8-4C]: https://github.com/den-materials/sassy-node "Sassy Node"
+[8-4D]: https://github.com/den-materials/sketch-photoshop-basics "Sketch and Photoshop"
+[8-4E]: https://github.com/den-materials/data-modeling "Relational Data Modeling"
+[8-4F]: http://www.w3schools.com/sql/sql_intro.asp "SQL Reading Assignment 1"
+[8-4G]: http://www.w3schools.com/sql/sql_syntax.asp "SQL Reading Assignment 2"
+[8-4H]: http://databases.about.com/od/sql/a/sql.htm "SQL Reading Assignment 3"
+[8-4I]: https://docs.google.com/forms/d/e/1FAIpQLSdLsCZLHYJ-ksAyjwdhcJ5t_xi41rUaW53ws8Z4YmnAKma7IA/viewform "Google Form"
+
+[8-5A]: https://github.com/den-materials/roman_js "Roman Numerals"
+[8-5B]: https://github.com/den-materials/sql-intro "Relational Databases & SQL"
+[8-5C]: https://github.com/den-materials/sql-carmen-sandiego "SQL CRUD Lab"
+[8-5D]: https://github.com/den-materials/portfolio-starter-kit "Outcomes"
+[8-5E]: https://github.com/den-materials/joins-and-more "Joins and Advanced SQL"
+[8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
+[8-5G]: https://github.com/den-materials/advanced-debugging "Advanced Debugging Lab"
 
 #### Week 9 - Project 3: SEAN Stack Group Project (1/29-2/2)
 
