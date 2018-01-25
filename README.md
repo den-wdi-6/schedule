@@ -431,11 +431,11 @@ Weekly Goals:
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Nick)][9-1A] | [**Questions in a Line** (Zeb)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Nick)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
-**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Zeb)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
- **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Nick)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Zeb)][9-3C] | Project 3 | Project 3
-**1:30pm Module 3** | [**Sketch and Photoshop Basics** (Nick)][8-4D] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku** (Zeb)][9-3G] | Project 3 | Project 3
-**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**The Return of the Boxes** - *Flexbox* (Nick)][8-4B] | Project 3 | Project 3
+**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Joe)][9-1A] | [**Questions in a Line** (Joe)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Joe)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
+**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Joe)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
+ **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Joe)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Joe)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**The Return of the Boxes** - *Flexbox* (Tyler)][8-4B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku** (Zeb)][9-3G] | Project 3 | Project 3
+**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Project 3**][9-3F] | Project 3 | Project 3
 **Training** | [**Lab: Library** - *SQL Practice*][8-5F] | Continue Tunr | [**Project 3**][9-3F] | Project 3 | Project 3 | 
 
 Weekly Goals:
