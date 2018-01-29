@@ -428,7 +428,16 @@ Weekly Goals:
 [8-5F]: https://github.com/den-materials/library_sql "Joins Lab"
 [8-5G]: https://github.com/den-materials/advanced-debugging "Advanced Debugging Lab"
 
-#### Week 9 - Project 3: SEAN Stack Group Project (1/29-2/2)
+#### Week 9 - Project 3: SQL and SEAN Stack Group Project (1/29-2/2)
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:00am Warm-up** | [**Roman Numerals** - *JS Problem Solving* (Zeb)][8-5A] | [**Intro to Sequelize** *Comparing Mongo/Mongoose to SQL/Sequelize* (Joe)][9-1A] | [**Questions in a Line** (Joe)][9-2A] | [**Mock Interviews** - *Behavioral Interviews* (Joe)][9-3A] | [**Mock Interviews** - *Hybrid Behavioral/Technical* (Zeb)][9-4A]
+**9:30am Module 1** | [**Students and Instructors** - *Intro to SQL and Relational DBs* (Joe)][8-5B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1B] | [**Second Pass** (Zeb)][9-2B] | [**Outcomes** (Nick)][9-3B] | Project 3
+ **11:00am Module 2** | [**Lab: Carmen Sandiego** - *SQL Practice* (Joe)][8-5C] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1C] | [**Team Git Workflow** - *Resolving Merge Conflicts* (Joe)][9-3C] | Project 3 | Project 3
+**1:30pm Module 3** | [**The Return of the Boxes** - *Flexbox* (Tyler)][8-4B] | [**Lab: Tunr Models** - *Sequelize / SEAN Stack* (Zeb)][9-1D] | [**Deploying Angular to Heroku** (Zeb)][9-3G] | Project 3 | Project 3
+**3:00pm Module 4** | [**eCommerce Site** - *SQL Relationships and JOINs* (Zeb)][8-5E] | [**Lab: Tunr Relationships** - *Sequelize one-to-many and one-to-one* (Zeb)][9-1E] | [**Project 3**][9-3F] | Project 3 | Project 3
+**Training** | [**Lab: Library** - *SQL Practice*][8-5F] | Continue Tunr | [**Project 3**][9-3F] | Project 3 | Project 3 | 
 
 Weekly Goals:
 - Use Sequelize to create a CRUDable model with SQL and Node
@@ -437,6 +446,31 @@ Weekly Goals:
 - Thoughtfully answer behavioral and technical interview questions
 - Create a SQL DB and perform queries on it
 - Utilize FlexBox to improve CSS
+
+[9-1A]: https://github.com/den-materials/sequelize_intro "Intro to Sequelize"
+[9-1B]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1C]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1D]: https://github.com/den-materials/modeling-tunr "Sequelize Modeling Lab"
+[9-1E]: https://github.com/den-materials/tunr-relationships "More Tunr"
+
+[9-2A]: https://github.com/den-materials/questions-in-a-hat/blob/master/week-09.md "Questions in a Hat"
+[9-2B]: https://github.com/den-wdi-3/week9_secondPass "Second Pass"
+[9-2C]: https://github.com/den-materials/intro-to-ops "Dev Ops Intro"
+[9-2D]: https://github.com/den-materials/intro-ionic "Intro to Ionic"
+
+[9-3A]: https://github.com/den-materials/behavioral-interview-warmup "Behavioral Interview"
+[9-3B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-3C]: https://github.com/den-materials/github-collaboration "Team Git Workflow"
+[9-3D]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3E]: https://github.com/den-materials/linked-lists "Linked Lists"
+[9-3F]: https://github.com/den-materials/project-03 "Project 3"
+[9-3G]: https://github.com/den-materials/angular-and-heroku "Angular and Heroku"
+
+[9-4A]: https://github.com/den-materials/troubleshooting-interview "Interview Prep"
+
+[9-5A]: https://github.com/den-materials/mock-technical-interview "Interview Prep"
+[9-5B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[9-5F]: https://github.com/den-materials/boomtown-project "Boomtown Work"
 
 ## Unit 4: Becoming a Developer
 
