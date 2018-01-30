@@ -477,11 +477,11 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Zeb)][9-5A] | [**CodeWars**][10-2A] | [**Getting a Freelance Gig** (Zeb)][10-3A] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**What's Different in Angular 2** (Zeb)][10-5A]
+**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Joe)][9-5A] | Project 3 | Project 3 | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**What's Different in Angular 2** (Zeb)][10-5A]
 **9:30am Module 1** | Project 3 | Project 3 | Project 3 Retro | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
 **11:00am Module 2** | Project 3 | Project 3 | **Project 3 Presentations** | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Intro to Legacy Code** (Zeb)][10-5C]
-**1:30pm Module 3** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Linked Lists Intro** (Zeb)][9-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Zeb)][9-5B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Zeb)][9-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**1:30pm Module 3** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Linked Lists Intro** (Joe)][9-3D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
+**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Zeb)][9-5B] | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Joe)][9-3E] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
 **Training** | Project 3 | Project 3 | Fix Issues | Continue Ionic App | Continue Legacy Code
 
 [10-1A]: https://www.codewars.com "CodeWars"
@@ -513,12 +513,12 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Git and GitHub Refresher** (Nick)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
-**9:30am Module 1** | [**Outcomes** (Nick)][11-2B] | [**React TODO** (Nick)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Nick)][11-5C] | NO | CLASS
-**11:00am Module 2** | [**Components and Blog Posts** - *React* (Nick)][11-2C] | [**React TODO** (Nick)][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins*(Nick)][11-4D] | GIVING | THANKS
-**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Nick)][11-2D] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Nick)][11-4B] | [**Lab: Client Project** - *PHP Wordpress* (Nick)][11-4E] | NO CLASS | NO CLASS
-**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Nick)][11-2E] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Nick)][11-4C]  | [**Second Pass** (Nick)][11-5A] | THANKSGIVING | NO CLASS
-**Training** | Continue React Tutorial | [**Finish React TODO** (Nick)][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
+**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)][11-5C] | NO | CLASS
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Joe)][11-2C] | [**React TODO** (Joe)][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Zeb)][11-4D] | GIVING | THANKS
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Joe)][11-2D] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)][11-4E] | NO CLASS | NO CLASS
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C]  | [**Second Pass** (Joe)][11-5A] | THANKSGIVING | NO CLASS
+**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
