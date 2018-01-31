@@ -507,18 +507,16 @@ Weekly Goals:
 - Understand basic operations and web-dev IT
 - Improve Legacy Code
 
-# Schedule below is IN PROGRESS, it is SUBJECT TO CHANGE
-
 #### Week 11 - React, PHP and Developer-Chosen Topics/Projects (2/12-2/16)
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | THANKS | GIVING
-**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)][11-5C] | NO | CLASS
-**11:00am Module 2** | [**Components and Blog Posts** - *React* (Joe)][11-2C] | [**React TODO** (Joe)][11-2F] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Zeb)][11-4D] | GIVING | THANKS
-**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Joe)][11-2D] | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)][11-4E] | NO CLASS | NO CLASS
-**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C]  | [**Second Pass** (Joe)][11-5A] | THANKSGIVING | NO CLASS
-**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | [**Pick a Lightning Talk Topic**][11-4F] & **Continue Wordpress Site** | NO CLASS | THANKSGIVING
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**CodeWars**][11-4A] | [**Lightning Talks Prep**][11-5E]
+**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | MOAR REACT (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Lightning Talks Prep
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Joe)][11-2C] | MOAR REACT (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Zeb)][11-4D] | Lightning Talks Prep
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Joe)][11-2D] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)][11-5C] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)][11-4E] | [**Lightning Talks**][12-1C]
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**React TODO** (Joe)][11-2F] | WILD CARD (Zeb) | [**Second Pass** (Joe)][11-5A] | Intro to Doing Things (Zeb and Holly)
+**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic][11-4F]** | **Continue Wordpress Site** | THANKSGIVING
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
@@ -552,11 +550,11 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am** | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Lightning Talks Prep | Scrum | Scrum | Scrum |
-**11:00am** | Freelance Project | Lightning Talks Prep | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**2:00pm** | Freelance Project | [**Lightning Talks**][12-1C] | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**3:00pm** | Freelance Project | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | **Mock Interviews** / Project Work |
-**Training** | [**Lightning Talks Prep**][11-5E] & **Continue Outside Project** | Project 4 | Project 4 | Project 4 | Project 4 |
+**9:00am** | PRESIDENTS | Doing Things Work | Scrum | Scrum | Scrum |
+**11:00am** | DAY | Doing Things Work | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**2:00pm** | NO | Doing Things Work | Approvals | Project 4 | **Mock Interviews** / Project Work |
+**3:00pm** | CLASS | Doing Things Presentations | Project 4 | Project 4 | **Mock Interviews** / Project Work |
+**Training** | NO CLASS | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | Project 4 |
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
 [12-1D]: https://github.com/den-materials/project-4 "Project 4"
