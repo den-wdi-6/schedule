@@ -477,11 +477,11 @@ Weekly Goals:
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Joe)][9-5A] | Project 3 | Project 3 | [**Linked Lists Intro** (Joe)][9-3D] | [**What's Different in Angular 2** (Zeb)][10-5A]
-**9:30am Module 1** | Project 3 | Project 3 | Project 3 Retro | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Joe)][9-3E] | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)][10-5B]
-**11:00am Module 2** | Project 3 | Project 3 | **Project 3 Presentations** | [**Hacking Round Two** - *Intro to Ops* (Zeb)][9-2C] | [**Intro to Legacy Code** (Zeb)][10-5C]
-**1:30pm Module 3** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5D]
-**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Zeb)][9-5B] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)][10-5E]
+**9:00am Warm-up** | [**Mock Interviews** - **Technical** (Joe)][9-5A] | Project 3 | Project 3 | [**Linked Lists Intro** (Joe)][9-3D] | [**What's Different in Angular 2** (Zeb)  `angular-2-differences`][10-5A]
+**9:30am Module 1** | Project 3 | Project 3 | Project 3 Retro | [**Lab: Traverse a Linked List** - *Computer Science and JS Practice* (Joe)  `linked-lists`][9-3E] | [**Lab: Cartoons** - *Angular 2 Refactor* (Zeb)  `angular-2-refactor`][10-5B]
+**11:00am Module 2** | Project 3 | Project 3 | **Project 3 Presentations** | [**Hacking Round Two** - *Intro to Ops* (Zeb)  `intro-to-ops`][9-2C] | [**Intro to Legacy Code** (Zeb)  `legacy-code-intro`][10-5C]
+**1:30pm Module 3** | Project 3 | Project 3 | [**Create Issues** (Zeb)][10-4E] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)][9-2D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)  `legacy-code-denver`][10-5D]
+**3:00pm Module 4** | Project 3 | Project 3 | [**Outcomes** (Zeb)][9-5B] | [**Getting Angular on Your Phone** - *Intro to Ionic* (Zeb)  `intro-ionic`][9-2D] | [**Lab: Sensus Debugging** - *Legacy Code* (Zeb)  `legacy-code-denver`][10-5E]
 **Training** | Project 3 | Project 3 | Fix Issues | Continue Ionic App | Continue Legacy Code
 
 [10-1A]: https://www.codewars.com "CodeWars"
@@ -511,12 +511,12 @@ Weekly Goals:
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**CodeWars**][11-4A] | [**Lightning Talks Prep**][11-5E]
-**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | MOAR REACT (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)][7-3C] | Lightning Talks Prep
-**11:00am Module 2** | [**Components and Blog Posts** - *React* (Tyler)][11-2C] | MOAR REACT (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Joe)][11-4D] | Lightning Talks Prep
-**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Tyler)][11-2D] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)][11-5C] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)][11-4E] | [**Lightning Talks**][12-1C]
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)`gh-lab`][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**CodeWars**][11-4A] | [**Lightning Talks Prep**][11-5E]
+**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | MOAR REACT (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)  `php-intro`][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb)  `authentication and math`][7-3C] | Lightning Talks Prep
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Tyler)  `react`][11-2C] | MOAR REACT (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)  `php-exercises`][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Joe)   `php-wordpress`][11-4D] | Lightning Talks Prep
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Tyler)  `redux`][11-2D] | [**React TODO** (Joe)  `react-todo-walkthrough-jquery`][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)  `php-crud`][11-5C] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)  `wordpress-lab`][11-4E] | [**Lightning Talks**][12-1C]
 **3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**React TODO** (Joe)][11-2F] | WILD CARD (Zeb) | [**Second Pass** (Joe)][11-5A] | Intro to Doing Things (Zeb and Holly)
-**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic][11-4F]** | **Continue Wordpress Site** | Work on Doing Things
+**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic  `lighting-talks`][11-4F]** | **Continue Wordpress Site** | Work on Doing Things
 
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
