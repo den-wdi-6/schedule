@@ -518,6 +518,7 @@ Time | Day 1                                 | Day 2                            
 **3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**React TODO** (Joe)][11-2F] | WILD CARD (Zeb) | [**Second Pass** (Joe)][11-5A] | Intro to Doing Things (Zeb and Holly)
 **Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic  `lighting-talks`][11-4F]** | **Continue Wordpress Site** | Work on Doing Things
 
+
 [11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
 [11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
 [11-2C]: https://github.com/den-materials/react "React"
