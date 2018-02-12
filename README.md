@@ -511,7 +511,41 @@ Weekly Goals:
 
 #### Week 11 - React, PHP and Developer-Chosen Topics/Projects (2/12-2/16)
 
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)`gh-lab`][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**CodeWars**][11-4A] | [**Lightning Talks Prep**][11-5E]
+**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | [**React Component Lifecycle**][11-3B] (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)  `php-intro`][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb) `authentication and math`][7-3C] | Lightning Talks Prep
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Tyler)  `react`][11-2C] | [**React Routes**][11-3C] (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)  `php-exercises`][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Joe)   `php-wordpress`][11-4D] | Lightning Talks Prep
+**1:30pm Module 3** | [**Likes and Stores** - *Redux* (Tyler)  `redux`][11-2D] | [**React TODO** (Joe)  `react-todo-walkthrough-jquery`][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)  `php-crud`][11-5C] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)  `wordpress-lab`][11-4E] | [**Lightning Talks**][12-1C]
+**3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)  `php-crud`][11-5C] | [**Second Pass** (Joe)][11-5A] | Intro to Doing Things (Zeb and Holly)
+**Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic  `lighting-talks`][11-4F]** | **Continue Wordpress Site** | Work on Doing Things
+
+
+[11-2A]: https://github.com/den-materials/gh-lab "Git Fork and Clone Workflow"
+[11-2B]: https://github.com/den-materials/outcomes-resources "Outcomes"
+[11-2C]: https://github.com/den-materials/react "React"
+[11-2D]: https://github.com/den-materials/redux "Redux"
+[11-2E]: https://facebook.github.io/react/tutorial/tutorial.html "React Lab"
+[11-2F]: https://github.com/den-materials/react-todo-walkthrough-jquery "React TODO"
+
+[11-3A]: https://www.codewars.com "CodeWars"
+[11-3B]: https://github.com/den-materials/react-component-lifecycle
+[11-3C]: https://github.com/den-materials/react-router-dentist-website
+
+[11-4A]: https://www.codewars.com "CodeWars"
+[11-4B]: https://github.com/den-materials/php-intro "PHP Intro"
+[11-4C]: https://github.com/den-materials/php-exercises "PHP Intro Lab"
+[11-4D]: https://github.com/den-materials/php-wordpress "PHP Wordpress"
+[11-4E]: https://github.com/den-materials/wordpress-lab "PHP Wordpress Lab"
+[11-4F]: https://github.com/den-materials/lighting-talks "Lightning Talks"
+
+[11-5A]: https://github.com/den-materials/unit4_week1_secondpass "Second Pass"
+[11-5B]: https://github.com/den-materials/php-crud "PHP CRUD"
+[11-5C]: https://github.com/den-materials/php-crud "PHP CRUD Lab"
+[11-5E]: https://github.com/den-materials/lighting-talks "Lightning Talk Prep"
+
 Weekly Goals:
+- Create a React App
 - Create a PHP CRUD App
 - Create a Wordpress App
 - Do work for someone outside of the class
