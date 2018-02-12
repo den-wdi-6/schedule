@@ -512,8 +512,8 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am Warm-up** | [**Git and GitHub Refresher** (Zeb)`gh-lab`][11-2A] | [**CodeWars**][11-3A] | [**CodeWars**][11-4A] | [**CodeWars**][11-4A] | [**Lightning Talks Prep**][11-5E]
-**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | MOAR REACT (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)  `php-intro`][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb) `authentication and math`][7-3C] | Lightning Talks Prep
-**11:00am Module 2** | [**Components and Blog Posts** - *React* (Tyler)  `react`][11-2C] | MOAR REACT (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)  `php-exercises`][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Joe)   `php-wordpress`][11-4D] | Lightning Talks Prep
+**9:30am Module 1** | [**Outcomes** (Zeb)][11-2B] | [**React Component Lifecycle**][11-3B] (Joe) | [**PHP Intro** - *Conditionals, Arrays, Constructors, and MAMP* (Zeb)  `php-intro`][11-4B] | [**Postal Systems and Authentication** - *Modular Arithmetic and Public/Private Keys* (Zeb) `authentication and math`][7-3C] | Lightning Talks Prep
+**11:00am Module 2** | [**Components and Blog Posts** - *React* (Tyler)  `react`][11-2C] | [**React Routes**][11-3C] (Joe) | [**Lab: Animals, Names, and Ages** - *PHP Exercises* (Zeb)  `php-exercises`][11-4C] | [**PHP Wordpress** - *Themes, Partials, and Plugins* (Joe)   `php-wordpress`][11-4D] | Lightning Talks Prep
 **1:30pm Module 3** | [**Likes and Stores** - *Redux* (Tyler)  `redux`][11-2D] | [**React TODO** (Joe)  `react-todo-walkthrough-jquery`][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)  `php-crud`][11-5C] | [**Lab: Client Project** - *PHP Wordpress* (Zeb)  `wordpress-lab`][11-4E] | [**Lightning Talks**][12-1C]
 **3:00pm Module 4** | [**Lab: Tic-Tac-Toe Again** - *React Tutorial* (Joe)][11-2E] | [**React TODO** (Joe)][11-2F] | [**Lab: Cars** - *PHP CRUD* (Zeb)  `php-crud`][11-5C] | [**Second Pass** (Joe)][11-5A] | Intro to Doing Things (Zeb and Holly)
 **Training** | Continue React Tutorial | [**Finish React TODO** (Joe)][11-2F] | **Continue PHP CRUD & [Pick a Lightning Talk Topic  `lighting-talks`][11-4F]** | **Continue Wordpress Site** | Work on Doing Things
@@ -527,6 +527,8 @@ Time | Day 1                                 | Day 2                            
 [11-2F]: https://github.com/den-materials/react-todo-walkthrough-jquery "React TODO"
 
 [11-3A]: https://www.codewars.com "CodeWars"
+[11-3B]: https://github.com/den-materials/react-component-lifecycle
+[11-3C]: https://github.com/den-materials/react-router-dentist-website
 
 [11-4A]: https://www.codewars.com "CodeWars"
 [11-4B]: https://github.com/den-materials/php-intro "PHP Intro"
