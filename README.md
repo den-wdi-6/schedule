@@ -557,10 +557,10 @@ Weekly Goals:
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:00am** | PRESIDENTS | Doing Things Work | Scrum | Scrum | Scrum |
-**11:00am** | DAY | Doing Things Work | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**2:00pm** | NO | Doing Things Work | Approvals | Project 4 | **Mock Interviews** / Project Work |
-**3:00pm** | CLASS | Doing Things Presentations | Project 4 | Project 4 | **Mock Interviews** / Project Work |
-**Training** | NO CLASS | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | Project 4 | Project 4 |
+**11:00am** | DAY | Doing Things Work | Approvals | Project 4 |  Project Work |
+**2:00pm** | NO | Doing Things Work | Approvals | Project 4 | Project Work |
+**3:00pm** | CLASS | Doing Things Presentations | Project 4 | **Mock Interviews** / Project 4 | Project Work |
+**Training** | NO CLASS | [**Project 4 Intro** (Zeb)][12-1D] | Project 4 | **Mock Interviews** / Project 4 | Project 4 |
 
 [12-1C]: https://github.com/den-materials/lighting-talks "Lighting Talks"
 [12-1D]: https://github.com/den-materials/project-4 "Project 4"
