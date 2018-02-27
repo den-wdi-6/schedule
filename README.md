@@ -576,6 +576,14 @@ Weekly Goals:
 
 #### Week 13 - Home Stretch (2/26-2/28)
 
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am** | Scrum | Scrum | Make-up Project Work | NO | NO
+**11:00am** | Project 4 | Project Work | **Mock Interviews** | CLASS | CLASS
+**2:00pm** | Project 4 | **Project Presentations** | **Practice Showcase** | WORK | WORK
+**3:00pm** | Project 4 | **Project Presentations** | Final Survey, Certificates, and Recap (**Graduation**) | ON | ON
+**Training** | Project Work | Project Work | Happy Hour | PORTFOLIO | PORTFOLIO
+
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
 All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
